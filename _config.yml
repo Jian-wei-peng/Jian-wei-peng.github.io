@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Lorem ipsum"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
-repository               : "RayeRen/acad-homepage.github.io"
+title                    : "Jianwei Peng"
+description              : "Robotics Researcher"
+repository               : "Jian-wei-peng/Jian-wei-peng.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Jianwei Peng"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "Robotics Researcher"
+  location         : "Quanzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "Lorem@ipsum.com"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=ZLUN4K0AAAAJ"
+  email            : "pengjianwei20@mails.ucas.ac.cn"
+  researchgate     : "https://www.researchgate.net/profile/Jianwei-Peng-7"
   uri              :
   bitbucket        :
   codepen          :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0000-3111-4754"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -55,8 +55,8 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
-  wikipedia        :
+  CSDN             : "https://blog.csdn.net/weixin_41070687?type=blog"
+  zhihu            : "https://www.zhihu.com/people/xiao-ai-43-45-82"
 
 
 # Reading Files
