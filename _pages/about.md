@@ -85,6 +85,8 @@ Previously, I received my B. S. degree in Automation from Huaqiao University, Xi
 
 **Jianwei Peng**, Zhelin Liao, Hanchen Yao, Zhiyu Wan, Liqi Zhu, and Houde Dai
 
+*Chinese Core Journals*
+
 **Keywords**: Human-Following, Impedance Control, Extended Social-force Model, Social Space
 
 </div>
@@ -113,6 +115,8 @@ Zhelin Liao, **Jianwei Peng**, Hanchen Yao, Zefan Su, and Houde Dai
 
 **Student Mentor**
 
+*EI, Chinese Core Journals*
+
 **Keywords**: Human-Accompanying, Admittance Control, Behavioral Dynamics, Social Robot
 
 </div>
@@ -124,6 +128,8 @@ Zhelin Liao, **Jianwei Peng**, Hanchen Yao, Zefan Su, and Houde Dai
 **[A Compliant Human Following Method for Mobile Robot Based on an Improved Spring Model](https://robot.sia.cn/cn/article/doi/10.13973/j.cnki.robot.200310)**
 
 Hanchen Yao, **Jianwei Peng**, Houde Dai, and Mingqiang Lin
+
+*EI, Chinese Core Journals*
 
 **Keywords**: Human-Following, Spring Model
 
