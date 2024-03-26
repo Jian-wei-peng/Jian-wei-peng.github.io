@@ -25,14 +25,16 @@ Previously, I received my B. S. degree in Automation from Huaqiao University, Xi
 
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 One paper is accepted by the **ICRA 2024**.
-- *2023.11*: &nbsp;🎉🎉 One paper is accepted by the **2023 China Automation Conference (CAC)**. 
-- *2023.10*: &nbsp;🎉🎉 One paper is accepted by the **Robot** (*EI*). 
-- *2023.07*: &nbsp;🎉🎉 One paper is accepted by the **ICCSIP 2023** (*Best Conference Paper Finalist*). 
-- *2023.06*: &nbsp;🎉🎉 One paper is accepted by the **IROS 2023**. 
+- *2024.02*: &nbsp;🎉🎉 One paper is accepted by **ICRA 2024** !
+- *2023.11*: &nbsp;🎉🎉 One paper is accepted by **2023 China Automation Conference (CAC)**. 
+- *2023.10*: &nbsp;🎉🎉 One paper is accepted by **Robot** (*EI*). 
+- *2023.08*: &nbsp;🎉🎉 My second-authored paper received the *Best Conference Paper Finalist* at 2023 International Conference on Cognitive Systems and Signal Processing (**ICCSIP 2023**).
+- *2023.06*: &nbsp;🎉🎉 One paper is accepted by **IROS 2023** !
 - *2023.06*: &nbsp;🎉🎉 I received my M.S. degree !!!
-- *2022.06*: &nbsp;🎉🎉 One paper is accepted by the **Journal of System Simulation** (*Chinese Core Journals*). 
-- *2020.10*: &nbsp;🎉🎉 One paper is accepted by the **Robot** (*EI*). 
+- *2022.12*: &nbsp;🎉🎉 I received a funding from the Future Talent Support Programme of the Shanghai Branch of the Chinese Academy of Sciences.
+- *2022.11*: &nbsp;🎉🎉 I received the National Scholarship.
+- *2022.06*: &nbsp;🎉🎉 One paper is accepted by **Journal of System Simulation** (*Chinese Core Journals*). 
+- *2020.10*: &nbsp;🎉🎉 One paper is accepted by **Robot** (*EI*). 
 
 # 📝 Publications 
 
@@ -94,7 +96,6 @@ Previously, I received my B. S. degree in Automation from Huaqiao University, Xi
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCSIP 2023</div><img src='images/ICCSIP2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **[Leg Detection for Socially Assistive Robots: Differentiating Multiple Targets with 2D LiDAR](https://link.springer.com/chapter/10.1007/978-981-99-8018-5_7)**
 
 Hanchen Yao, **Jianwei Peng**, Zhelin Liao, Ran Zhao, and Houde Dai
