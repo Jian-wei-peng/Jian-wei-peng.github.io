@@ -19,9 +19,9 @@ redirect_from:
 
 # 🧍‍♂️ About Me
 
-Currently, I am a research assistant at the Quanzhou Institute of Equipment Manufacturing, Haixi Institutes, Chinese Academy of Sciences, working with [Prof. Houde Dai](https://people.ucas.edu.cn/~0046200). I'm looking for a suitable PhD position. My research focuses on developing human-robot interaction control algorithms for mobile robots to enhance the human-following and human-accompanying capabilities of the robots, with the aim of achieving collaborative coexistence between robots and humans in human-robot shared environments. 
+Currently, I am a research assistant at the Quanzhou Institute of Equipment Manufacturing, Haixi Institutes, Chinese Academy of Sciences, working with [Prof. Houde Dai](https://people.ucas.edu.cn/~0046200). I'm looking for a suitable PhD position. My research focuses on developing human-following and human-accompanying control algorithms for mobile robots to perform collaborative tasks in the human-robot coexistence environment.
 
-Previously, I received my B. S. degree in Automation from Huaqiao University, Xiamen, China, as the Outstanding Graduate in 2020. In the same year, I secured direct admission to the graduate programme of the University of Chinese Academy of Sciences, and the academic training unit is the Fujian Institute of Research on the Structure of Matter, Chinese Academy of Sciences. In 2023, I received my M. S. degree in control engineering from the University of Chinese Academy of Sciences.
+Previously, I received my B.S. degree in Automation from Huaqiao University, Xiamen, China, in 2020 as an outstanding graduate. In the same year, I secured direct admission to the graduate programme of the University of Chinese Academy of Sciences, and the academic training unit is the Fujian Institute of Research on the Structure of Matter, Chinese Academy of Sciences. In 2023, I received my M.S. degree in Control Engineering from the University of Chinese Academy of Sciences.
 
 
 # 🔥 News
