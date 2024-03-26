@@ -157,9 +157,9 @@ Hanchen Yao, **Jianwei Peng**, Houde Dai, and Mingqiang Lin
 - ### Conference Reviewer:
 
   - China Automation Conference (CAC), 2023
-  - IEEE International Conference on Robotics and Automation (ICRA), 2022
-  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021, 2022
-  - IEEE International Conference on Robotics and Biomimetics (ROBIO), 2021, 2022
+  - IEEE International Conference on Robotics and Automation (ICRA), 2023
+  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022, 2023
+  - IEEE International Conference on Robotics and Biomimetics (ROBIO), 2022, 2023
 
 - **Journal Reviewer:**
 
