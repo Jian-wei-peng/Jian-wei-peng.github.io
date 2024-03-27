@@ -140,14 +140,14 @@ Hanchen Yao, **Jianwei Peng**, Houde Dai, and Mingqiang Lin
 # 🎖 Honors and Awards
 - *2023.08* **Best Conference Paper Finalist** in Eighth International Conference on Cognitive Systems and Information Processing (ICCSIP 2023)
 - *2022.12* **Future Talent Support Program** of the Shanghai Branch of the Chinese Academy of Sciences.
-- *2022.11* **National Scholarship for Master Students**.
+- *2022.11* **National Scholarship**.
 - *2022.11* **Third Prize** in Artificial Intelligence in the First Staff Skills Competition of the Chinese Academy of Sciences
 - *2021.09* **Lu Jiaxi Outstanding Freshmen Scholarship**
 - *2021.08* **First Prize** of Excellent Entrepreneurial Team of College Students in Beijing Region in 2021
 - *2020.11* **First Prize** of the Ninth Exhibition and Promotion of Scientific and Technological Innovation Achievements of Universities
-- *2020.09* **Grand Prize** in Robotics Track of Digital China Innovation Contest 2020
+- *2020.09* **Grand Prize** in Intelligent Robotics Competition of 2020 Digital China Innovation Contest
 - *2020.07* **Outstanding Graduates** of Huaqiao University Class of 2020
-- *2018.11* **National Second Prize** of China University Student Mathematical Modelling Competition 2018
+- *2018.11* **National Second Prize** of 2018 China University Student Mathematical Modelling Competition
 - 2017~2019 **First-class Undergraduate Academic Scholarship** at Huaqiao University
 
 # 📖 Educations
