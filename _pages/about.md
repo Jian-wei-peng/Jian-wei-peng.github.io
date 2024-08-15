@@ -107,8 +107,7 @@ Hanchen Yao, **Jianwei Peng**, Zhelin Liao, Ran Zhao, and Houde Dai
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Robot</div><img src='images/robot2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-**[Admittance Control-based Human-accompanying and Obstacle-avoidance Control Strategy for Social Robot](https://kns.cnki.net/kcms2/article/abstract?v=gr2ERH1ElEtXnqLDOaTz8a48sIlkBLsIK43-FKxxfNAOvQOjwrSH9hhV52ih0HBeUkuTwn8gAF_ua175jNnyxqplM8gjRhaWr8hi09t4BJBlqEp-ud2kUj0hQ0mEOoKqRbaUW5KcGrg=&uniplatform=NZKPT&language=CHS)**
+**[Admittance Control-based Human-accompanying and Obstacle-avoidance Control Strategy for Social Robot](https://robot.sia.cn/cn/article/doi/10.13973/j.cnki.robot.230163)**
 
 Zhelin Liao, **Jianwei Peng**, Hanchen Yao, Zefan Su, and Houde Dai
 
