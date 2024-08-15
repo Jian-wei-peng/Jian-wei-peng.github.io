@@ -40,8 +40,7 @@ Previously, I received my B.S. degree in Automation from Huaqiao University, Xia
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/icra2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-**A Dual Closed-Loop Control Strategy for Human-Following Robots Respecting Social Space**
+**[A Dual Closed-Loop Control Strategy for Human-Following Robots Respecting Social Space](https://ieeexplore.ieee.org/abstract/document/10611263)**
 
 **Jianwei Peng**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai
 
@@ -54,7 +53,6 @@ Previously, I received my B.S. degree in Automation from Huaqiao University, Xia
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IROS 2023</div><img src='images/iros2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 **[MPC-Based Human-Accompanying Control Strategy for Improving the Motion Coordination Between the Target Person and the Robot](https://ieeexplore.ieee.org/abstract/document/10342246)**
 
 **Jianwei Peng**, Zhelin Liao, Hanchen Yao, Zefan Su, Yadan Zeng, and Houde Dai
@@ -159,7 +157,7 @@ Hanchen Yao, **Jianwei Peng**, Houde Dai, and Mingqiang Lin
 
   - China Automation Conference (CAC), 2023
   - IEEE International Conference on Robotics and Automation (ICRA), 2023
-  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022, 2023
+  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022, 2023, 2024
   - IEEE International Conference on Robotics and Biomimetics (ROBIO), 2022, 2023
 
 - **Journal Reviewer:**
