@@ -42,35 +42,33 @@ Previously, I received my B.S. degree in Automation from Huaqiao University, Xia
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><img src='files/ICRA2024.gif' alt="sym" width="100%"></a></div>
+<div class='paper-box'><div class='paper-box-image'><img src='files/ICRA24.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
 **[A Dual Closed-Loop Control Strategy for Human-Following Robots Respecting Social Space](https://ieeexplore.ieee.org/abstract/document/10611263)**
 
-- **Jianwei Peng**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai
+**Jianwei Peng**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai
 
-- 2024 IEEE International Conference on Robotics and Automation (ICRA). [[video](https://www.youtube.com/watch?v=Q1BG2GLAg8c)]
+2024 IEEE International Conference on Robotics and Automation (ICRA). [[video](https://www.youtube.com/watch?v=Q1BG2GLAg8c)]
 
-- In this paper, we propose a dual closed-loop human-following control strategy that combines MPC and impedance control. The outer-loop MPC ensures precise control of the robot’s posture while tracking the target person’s velocity and direction to coordinate the motion between them. The inner-loop impedance controller is employed to regulate the robot’s motion and interaction force with the target person, enabling the robot to maintain a respectful and comfortable distance from the target person. Concretely, the social interaction dynamics characteristics between the robot and the target person are described by human-robot interaction dynamics, which considers the rules of social space. Furthermore, an obstacle avoidance component constructed using behavioral dynamics is integrated into the impedance controller.
+We propose a dual closed-loop human-following control strategy that combines MPC and impedance control. The outer-loop MPC ensures precise control of the robot’s posture while tracking the target person’s velocity and direction to coordinate the motion between them. The inner-loop impedance controller is employed to regulate the robot’s motion and interaction force with the target person, enabling the robot to maintain a respectful and comfortable distance from the target person. Concretely, the social interaction dynamics characteristics between the robot and the target person are described by human-robot interaction dynamics, which considers the rules of social space. Furthermore, an obstacle avoidance component constructed using behavioral dynamics is integrated into the impedance controller.
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='files/IROS2023.gif' alt="sym" width="100%"></a></div>
+<div class='paper-box'><div class='paper-box-image'><img src='files/IROS23.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
 
 **[MPC-Based Human-Accompanying Control Strategy for Improving the Motion Coordination Between the Target Person and the Robot](https://ieeexplore.ieee.org/abstract/document/10342246)**
 
 **Jianwei Peng**, Zhelin Liao, Hanchen Yao, Zefan Su, Yadan Zeng, and Houde Dai
 
-2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). [[video](https://www.youtube.com/watch?v=rw8Gd4XVBu8)]
+2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 
 
- In this paper, we propose a human-accompanying control strategy to improve the motion coordination for better practicability of the human-accompanying robot. Our approach allows the robot to adapt to the motion variations of the target person and avoid obstacles while accompanying them. First, a human-robot interaction model based on the separation-bearing-orientation scheme is developed to ascertain the relative position and orientation between the robot and the target person. Then, a human-accompanying controller based on behavioral dynamics and model predictive control (MPC) is designed to avoid obstacles and simultaneously track the direction and velocity of the target person.
+[[video](https://www.youtube.com/watch?v=rw8Gd4XVBu8)]
 
 </div>
 </div>
-
----
 
 1. **A Dual Closed-Loop Control Strategy for Human-Following Robots Respecting Social Space.** <br />**Jianwei Peng**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai. <br />**ICRA 2024**. [[paper](http://Jian-wei-peng.github.io/files/icra2024.pdf)] [[video](https://www.youtube.com/watch?v=Q1BG2GLAg8c)]
 2. **MPC-Based Human-Accompanying Control Strategy for Improving the Motion Coordination Between the Target Person and the Robot.** <br />**Jianwei Peng**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai. <br />**IROS 2023**. [[paper](http://Jian-wei-peng.github.io/files/iros2023.pdf)] [[video](https://www.youtube.com/watch?v=rw8Gd4XVBu8)]
@@ -94,10 +92,6 @@ Previously, I received my B.S. degree in Automation from Huaqiao University, Xia
 - *2018.11* &nbsp; **National Second Prize** of 2018 China University Student Mathematical Modelling Competition.
 - 2017~2019 &nbsp; **First-class Undergraduate Academic Scholarship** at Huaqiao University.
 
-# 📖 Educations
-- *2020.09 - 2023.06*, M.S. Fujian Institute of Research on the Structure of Matter, Chinese Academy of Sciences, Control Engineering.
-- *2016.09 - 2020.06*, B.S. Huaqiao University, Automation.
-
 # 💬 Academic Services
 - **Journal Reviewer:**
 
@@ -110,6 +104,11 @@ Previously, I received my B.S. degree in Automation from Huaqiao University, Xia
   - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022, 2023, 2024
   - IEEE International Conference on Robotics and Biomimetics (ROBIO), 2022, 2023
   - China Automation Conference (CAC), 2023
+
+# 📖 Educations
+
+- *2020.09 - 2023.06*, M.S. Fujian Institute of Research on the Structure of Matter, Chinese Academy of Sciences, Control Engineering.
+- *2016.09 - 2020.06*, B.S. Huaqiao University, Automation.
 
 # 💻 Work Experience
 - *2023.07 - Now*, Research Assistant, Quanzhou Institute of Equipment Manufacturing, Haixi Institutes, Chinese Academy of Sciences.
