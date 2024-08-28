@@ -42,21 +42,21 @@ Previously, I received my B.S. degree in Automation from Huaqiao University, Xia
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><img src='files/ICRA24.gif' alt="sym" width="100%"></a></div>
+<div class='paper-box'><div class='paper-box-image'><img src='files/ICRA24.gif' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **[A Dual Closed-Loop Control Strategy for Human-Following Robots Respecting Social Space](https://ieeexplore.ieee.org/abstract/document/10611263)**
 
 **Jianwei Peng**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai
 
-2024 IEEE International Conference on Robotics and Automation (ICRA). [[video](https://www.youtube.com/watch?v=Q1BG2GLAg8c)]
+2024 IEEE International Conference on Robotics and Automation (ICRA). 
 
-We propose a dual closed-loop human-following control strategy that combines MPC and impedance control. The outer-loop MPC ensures precise control of the robot’s posture while tracking the target person’s velocity and direction to coordinate the motion between them. The inner-loop impedance controller is employed to regulate the robot’s motion and interaction force with the target person, enabling the robot to maintain a respectful and comfortable distance from the target person. Concretely, the social interaction dynamics characteristics between the robot and the target person are described by human-robot interaction dynamics, which considers the rules of social space. Furthermore, an obstacle avoidance component constructed using behavioral dynamics is integrated into the impedance controller.
+[[video](https://www.youtube.com/watch?v=Q1BG2GLAg8c)]
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='files/IROS23.gif' alt="sym" width="100%"></a></div>
+<div class='paper-box'><div class='paper-box-image'><img src='files/IROS23.gif' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 **[MPC-Based Human-Accompanying Control Strategy for Improving the Motion Coordination Between the Target Person and the Robot](https://ieeexplore.ieee.org/abstract/document/10342246)**
