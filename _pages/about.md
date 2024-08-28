@@ -23,9 +23,11 @@ I am a Research Assistant at the Quanzhou Institute of Equipment Manufacturing, 
 
 Previously, I received my B.S. degree in Automation from Huaqiao University, Xiamen, China, in 2020 as an outstanding graduate. In the same year, I secured direct admission to the graduate programme of the University of Chinese Academy of Sciences, and the academic training unit is the Fujian Institute of Research on the Structure of Matter, Chinese Academy of Sciences. In 2023, I received my M.S. degree in Control Engineering from the University of Chinese Academy of Sciences.
 
+[CV](http://Jian-wei-peng.github.io/files/CV.pdf)
+
 
 # 🔥 News
-- *2024.08*: &nbsp; We won the **Best Prototype Award** in the technology category from i-CREATe 2024. 
+- *2024.08*: &nbsp; We won the **Best Prototype Award** in the Technology Category at i-CREATe 2024.
 - *2024.02*: &nbsp; Presenting our work at ICRA2024 in Yokohama, Japan. My first oral presentation in my academic career !!! 🎉🎉
 - *2024.02*: &nbsp; One paper is accepted by ICRA 2024.
 - *2023.11*: &nbsp; One paper is accepted by 2023 China Automation Conference (CAC). 
@@ -40,21 +42,23 @@ Previously, I received my B.S. degree in Automation from Huaqiao University, Xia
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><img src='files/ICRA2024.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><img src='files/ICRA2024.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
+
 **[A Dual Closed-Loop Control Strategy for Human-Following Robots Respecting Social Space](https://ieeexplore.ieee.org/abstract/document/10611263)**
 
-**Jianwei Peng**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai
+- **Jianwei Peng**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai
 
-2024 IEEE International Conference on Robotics and Automation (ICRA). [[video](https://www.youtube.com/watch?v=Q1BG2GLAg8c)]
+- 2024 IEEE International Conference on Robotics and Automation (ICRA). [[video](https://www.youtube.com/watch?v=Q1BG2GLAg8c)]
 
-In this paper, we propose a dual closed-loop human-following control strategy that combines model predictive control (MPC) and impedance control. The outer-loop MPC ensures precise control of the robot’s posture while tracking the target person’s velocity and direction to coordinate the motion between them. The inner-loop impedance controller is employed to regulate the robot’s motion and interaction force with the target person, enabling the robot to maintain a respectful and comfortable distance from the target person. Concretely, the social interaction dynamics characteristics between the robot and the target person are described by human-robot interaction dynamics, which considers the rules of social space. Furthermore, an obstacle avoidance component constructed using behavioral dynamics is integrated into the impedance controller.
+- In this paper, we propose a dual closed-loop human-following control strategy that combines MPC and impedance control. The outer-loop MPC ensures precise control of the robot’s posture while tracking the target person’s velocity and direction to coordinate the motion between them. The inner-loop impedance controller is employed to regulate the robot’s motion and interaction force with the target person, enabling the robot to maintain a respectful and comfortable distance from the target person. Concretely, the social interaction dynamics characteristics between the robot and the target person are described by human-robot interaction dynamics, which considers the rules of social space. Furthermore, an obstacle avoidance component constructed using behavioral dynamics is integrated into the impedance controller.
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='files/IROS2023.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><img src='files/IROS2023.gif' alt="sym" width="100%"></a></div>
 <div class='paper-box-text' markdown="1">
+
 **[MPC-Based Human-Accompanying Control Strategy for Improving the Motion Coordination Between the Target Person and the Robot](https://ieeexplore.ieee.org/abstract/document/10342246)**
 
 **Jianwei Peng**, Zhelin Liao, Hanchen Yao, Zefan Su, Yadan Zeng, and Houde Dai
@@ -68,27 +72,30 @@ In this paper, we propose a dual closed-loop human-following control strategy th
 
 ---
 
-1. **A Dual Closed-Loop Control Strategy for Human-Following Robots Respecting Social Space.** <br />**Jianwei Peng**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai. <br />**ICRA 2024**. [[paper](http://Jian-wei-peng.github.io/files/icra2024.pdf)] [[video](https://www.youtube.com/watch?v=Q1BG2GLAg8c))]
-2. **MPC-Based Human-Accompanying Control Strategy for Improving the Motion Coordination Between the Target Person and the Robot.** <br />**Jianwei Peng**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai. <br />**IROS 2023**. [[paper](http://Jian-wei-peng.github.io/files/iros2023.pdf)] [[video](https://www.youtube.com/watch?v=rw8Gd4XVBu8))]
-3. 
+1. **A Dual Closed-Loop Control Strategy for Human-Following Robots Respecting Social Space.** <br />**Jianwei Peng**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai. <br />**ICRA 2024**. [[paper](http://Jian-wei-peng.github.io/files/icra2024.pdf)] [[video](https://www.youtube.com/watch?v=Q1BG2GLAg8c)]
+2. **MPC-Based Human-Accompanying Control Strategy for Improving the Motion Coordination Between the Target Person and the Robot.** <br />**Jianwei Peng**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai. <br />**IROS 2023**. [[paper](http://Jian-wei-peng.github.io/files/iros2023.pdf)] [[video](https://www.youtube.com/watch?v=rw8Gd4XVBu8)]
+3. **Leg Detection for Socially Assistive Robots: Differentiating Multiple Targets with 2D LiDAR.** <br />Hanchen Yao, **Jianwei Peng**, Zhelin Liao, Ran Zhao, and Houde Dai. <br />**ICCSIP 2023 Best Conference Paper Finalist**. [[paper](http://Jian-wei-peng.github.io/files/ICCSIP2023.pdf)] [[link](https://link.springer.com/chapter/10.1007/978-981-99-8018-5_7)]
+4. **Admittance Control-based Human-accompanying and Obstacle-avoidance Control Strategy for Social Robot.** <br />Zhelin Liao, **Jianwei Peng**, Hanchen Yao, Zefan Su, and Houde Dai. <br />**ROBOT 2024**. [[paper](http://Jian-wei-peng.github.io/files/robot2024.pdf)] [[link](https://robot.sia.cn/article/doi/10.13973/j.cnki.robot.230163)]
+5. **Human-Robot Interaction Dynamics-Based Impedance Control Strategy for Enhancing Social Acceptance of Human-Following Robot.** <br />**Jianwei Peng**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai. <br />**CAC 2023**. [[paper](http://Jian-wei-peng.github.io/files/cac2023.pdf)] [[link](https://ieeexplore.ieee.org/abstract/document/10452070)]
+6. **A compliant robot control based on extended social-force model for human-following and obstacle avoidance.** <br />**Jianwei Peng**, Zhelin Liao, Hanchen Yao, Zhiyu Wan, Liqi Zhu, and Houde Dai. <br />**Journal of System Simulation 2023**. [[paper](http://Jian-wei-peng.github.io/files/jss2023.pdf)] [[link](https://dc-china-simulation.researchcommons.org/journal/vol35/iss8/14/)]
+7. **A Compliant Human Following Method for Mobile Robot Based on an Improved Spring Model.** <br />Hanchen Yao, **Jianwei Peng**,  Houde Dai, and Mingqiang Lin. <br />**ROBOT 2021**. [[paper](http://Jian-wei-peng.github.io/files/robot2021.pdf)] [[link](https://robot.sia.cn/article/doi/10.13973/j.cnki.robot.200310)]
 
 # 🎖 Honors and Awards
-- *2024.08* **Best Prototype Award** in the Technology Category at the 2024 International Convention on Rehabilitation Engineering and Assistive Technology (i-CREATe 2024).
-- *2023.08* **Best Conference Paper Finalist** at the Eighth International Conference on Cognitive Systems and Information Processing (ICCSIP 2023).
-- *2022.12* **Future Talent Support Program** of the Shanghai Branch of the Chinese Academy of Sciences.
-- *2022.11* **National Scholarship**.
-- *2022.11* **Third Prize** in the Artificial Intelligence Category at the First Staff Skills Competition of the Chinese Academy of Sciences.
-- *2021.09* **Lu Jiaxi Outstanding Freshmen Scholarship**.
-- *2021.08* **First Prize** in the 2021 Outstanding University Student Entrepreneurial Teams Selection for Beijing Universities.
-- *2020.11* **First Prize** at the 9th University Science and Technology Achievements Exhibition and Promotion Conference.
-- *2020.09* **Grand Prize** in the Intelligent Robotics Competition of the 2020 Digital China Innovation Contest.
-- *2020.07* **Outstanding Graduates** of Huaqiao University Class of 2020.
-- *2018.11* **National Second Prize** of 2018 China University Student Mathematical Modelling Competition.
-- 2017~2019 **First-class Undergraduate Academic Scholarship** at Huaqiao University.
+- *2024.08* &nbsp; **Best Prototype Award** in the Technology Category at the 2024 International Convention on Rehabilitation Engineering and Assistive Technology (i-CREATe 2024).
+- *2023.08* &nbsp; **Best Conference Paper Finalist** at the Eighth International Conference on Cognitive Systems and Information Processing (ICCSIP 2023).
+- *2022.12* &nbsp; **Future Talent Support Program** of the Shanghai Branch of the Chinese Academy of Sciences.
+- *2022.11* &nbsp; **National Scholarship**.
+- *2022.11* &nbsp; **Third Prize** in the Artificial Intelligence Category at the First Staff Skills Competition of the Chinese Academy of Sciences.
+- *2021.09* &nbsp; **Lu Jiaxi Outstanding Freshmen Scholarship**.
+- *2021.08* &nbsp; **First Prize** in the 2021 Outstanding University Student Entrepreneurial Teams Selection for Beijing Universities.
+- *2020.11* &nbsp; **First Prize** at the 9th University Science and Technology Achievements Exhibition and Promotion Conference.
+- *2020.09* &nbsp; **Grand Prize** in the Intelligent Robotics Competition of the 2020 Digital China Innovation Contest.
+- *2020.07* &nbsp; **Outstanding Graduates** of Huaqiao University Class of 2020.
+- *2018.11* &nbsp; **National Second Prize** of 2018 China University Student Mathematical Modelling Competition.
+- 2017~2019 &nbsp; **First-class Undergraduate Academic Scholarship** at Huaqiao University.
 
 # 📖 Educations
-- *2020.09 - 2023.06*, M.S. University of the Chinese Academy of Sciences, Control Engineering.
-  - Fujian Institute of Research on the Structure of Matter, Chinese Academy of Sciences.
+- *2020.09 - 2023.06*, M.S. Fujian Institute of Research on the Structure of Matter, Chinese Academy of Sciences, Control Engineering.
 - *2016.09 - 2020.06*, B.S. Huaqiao University, Automation.
 
 # 💬 Academic Services
