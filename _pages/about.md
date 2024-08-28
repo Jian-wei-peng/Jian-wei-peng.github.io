@@ -19,9 +19,9 @@ redirect_from:
 
 # 🧍‍♂️ About Me
 
-I am a Research Assistant at the Quanzhou Institute of Equipment Manufacturing, Haixi Institutes, Chinese Academy of Sciences, working with [Prof. Houde Dai](https://people.ucas.edu.cn/~dhd?language=en). My research focuses on developing human-following control algorithms for mobile robots to perform collaborative tasks in the human-robot coexistence environment.
+I am a Research Assistant at the Quanzhou Institute of Equipment Manufacturing, Haixi Institutes, Chinese Academy of Sciences, working with [Prof. Houde Dai](https://people.ucas.edu.cn/~dhd?language=en). My research focuses on robotics, specifically in the areas of planning, control, and social awareness for human-following robots. I am currently dedicated to developing user-aware control strategies that enable robots to follow or accompany users while respecting their social space. My ultimate goal is to create a socially-aware human-following robot system that adheres to social norms and demonstrates reliable intelligence in assisting humans.
 
-Previously, I received my B.S. degree in Automation from Huaqiao University, Xiamen, China, in 2020 as an outstanding graduate. In the same year, I secured direct admission to the graduate programme of the University of Chinese Academy of Sciences, and the academic training unit is the Fujian Institute of Research on the Structure of Matter, Chinese Academy of Sciences. In 2023, I received my M.S. degree in Control Engineering from the University of Chinese Academy of Sciences.
+Previously, I received my B.S. degree in Automation from Huaqiao University, Xiamen, China, in 2020, where I was recognized as an outstanding graduate. In the same year, I secured direct admission to the graduate program at the University of Chinese Academy of Sciences, with the Fujian Institute of Research on the Structure of Matter, Chinese Academy of Sciences as my academic training unit. In 2023, I earned my M.S. degree in Control Engineering from the University of Chinese Academy of Sciences.
 
 [CV](http://Jian-wei-peng.github.io/files/CV.pdf)
 
