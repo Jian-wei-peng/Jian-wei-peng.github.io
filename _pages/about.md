@@ -28,7 +28,7 @@ Previously, I received my B.S. degree in Automation from Huaqiao University, Xia
 
 # 🔥 News
 - *2024.08*: &nbsp; We won the **Best Prototype Award** in the Technology Category at i-CREATe 2024.
-- *2024.02*: &nbsp; Presenting our work at ICRA2024 in Yokohama, Japan. My first oral presentation in my academic career !!! 🎉🎉
+- *2024.05*: &nbsp; Presenting our work at ICRA 2024 in Yokohama, Japan. My first oral presentation in my academic career !!! 🎉🎉
 - *2024.02*: &nbsp; One paper is accepted by ICRA 2024.
 - *2023.11*: &nbsp; One paper is accepted by 2023 China Automation Conference (CAC). 
 - *2023.10*: &nbsp; One paper is accepted by Robot (*EI*). 
