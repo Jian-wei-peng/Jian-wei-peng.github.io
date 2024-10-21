@@ -100,7 +100,7 @@ Previously, I received my B.S. degree in Automation from Huaqiao University, Xia
 
 - ### Conference Reviewer:
 
-  - IEEE International Conference on Robotics and Automation (ICRA), 2023
+  - IEEE International Conference on Robotics and Automation (ICRA), 2023, 2025
   - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022, 2023, 2024
   - IEEE International Conference on Robotics and Biomimetics (ROBIO), 2022, 2023
   - China Automation Conference (CAC), 2023
