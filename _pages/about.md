@@ -77,12 +77,13 @@ Previously, I received my B.S. degree in Automation from Huaqiao University, Xia
 5. **Human-Robot Interaction Dynamics-Based Impedance Control Strategy for Enhancing Social Acceptance of Human-Following Robot.** <br />**Jianwei Peng**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai. <br />**CAC 2023**. [[paper](http://Jian-wei-peng.github.io/files/cac2023.pdf)] [[link](https://ieeexplore.ieee.org/abstract/document/10452070)]
 6. **A compliant robot control based on extended social-force model for human-following and obstacle avoidance.** <br />**Jianwei Peng**, Zhelin Liao, Hanchen Yao, Zhiyu Wan, Liqi Zhu, and Houde Dai. <br />**Journal of System Simulation 2023**. [[paper](http://Jian-wei-peng.github.io/files/jss2023.pdf)] [[link](https://dc-china-simulation.researchcommons.org/journal/vol35/iss8/14/)]
 7. **A Compliant Human Following Method for Mobile Robot Based on an Improved Spring Model.** <br />Hanchen Yao, **Jianwei Peng**,  Houde Dai, and Mingqiang Lin. <br />**ROBOT 2021**. [[paper](http://Jian-wei-peng.github.io/files/robot2021.pdf)] [[link](https://robot.sia.cn/article/doi/10.13973/j.cnki.robot.200310)]
+8. **LQR-based control strategy for improving human–robot companionship and natural obstacle avoidance.** <br />Zefan Su, Hanchen Yao, **Jianwei Peng**, Zhelin Liao, Zengwei Wang, Hui Yu, Houde Dai, and Tim C Lueth. <br />**Biomimetic Intelligence and Robotics 2024**. [[paper](http://Jian-wei-peng.github.io/files/bir2024.pdf)] [[link](https://www.sciencedirect.com/science/article/pii/S2667379724000433)]
 
 # 🎖 Honors and Awards
 - *2024.08* &nbsp; **Best Prototype Award** in the Technology Category at the 2024 International Convention on Rehabilitation Engineering and Assistive Technology (i-CREATe 2024).
 - *2023.08* &nbsp; **Best Conference Paper Finalist** at the Eighth International Conference on Cognitive Systems and Information Processing (ICCSIP 2023).
 - *2022.12* &nbsp; **Future Talent Support Program** of the Shanghai Branch of the Chinese Academy of Sciences.
-- *2022.11* &nbsp; **National Scholarship**.
+- *2022.11* &nbsp; **National Scholarship** (1.5% Nationwide).
 - *2022.11* &nbsp; **Third Prize** in the Artificial Intelligence Category at the First Staff Skills Competition of the Chinese Academy of Sciences.
 - *2021.09* &nbsp; **Lu Jiaxi Outstanding Freshmen Scholarship**.
 - *2021.08* &nbsp; **First Prize** in the 2021 Outstanding University Student Entrepreneurial Teams Selection for Beijing Universities.
