@@ -27,18 +27,19 @@ Previously, I received my B.S. degree in Automation from Huaqiao University, Xia
 
 
 # 🔥 News
+- *2024.09*: &nbsp; One paper is accepted by Biomimetic Intelligence and Robotics (*ESCI, EI*). 
 - *2024.08*: &nbsp; We won the **Best Prototype Award** in the Technology Category at i-CREATe 2024.
 - *2024.05*: &nbsp; Presenting our work at ICRA 2024 in Yokohama, Japan. My first oral presentation in my academic career !!! 🎉🎉
 - *2024.02*: &nbsp; One paper is accepted by ICRA 2024.
 - *2023.11*: &nbsp; One paper is accepted by 2023 China Automation Conference (CAC). 
-- *2023.10*: &nbsp; One paper is accepted by Robot (*EI*). 
+- *2023.10*: &nbsp; One paper is accepted by Robot (*EI, Chinese Core Periodicals*). 
 - *2023.08*: &nbsp; My second-authored paper received the **Best Conference Paper Finalist** at 2023 International Conference on Cognitive Systems and Signal Processing (ICCSIP 2023). 
 - *2023.06*: &nbsp; One paper is accepted by IROS 2023.
 - *2023.06*: &nbsp; I received my M.S. degree !!! 🎉🎉
 - *2022.12*: &nbsp; I received a funding from the **Future Talent Support Programme of the Shanghai Branch of the Chinese Academy of Sciences**.
 - *2022.11*: &nbsp; I received the **National Scholarship**.
-- *2022.06*: &nbsp; One paper is accepted by Journal of System Simulation (*Chinese Core Journals*). 
-- *2020.10*: &nbsp; One paper is accepted by Robot (*EI*). 
+- *2022.06*: &nbsp; One paper is accepted by Journal of System Simulation (*Chinese Core Periodicals*). 
+- *2020.10*: &nbsp; One paper is accepted by Robot (*EI, Chinese Core Periodicals*). 
 
 # 📝 Publications 
 
@@ -83,7 +84,7 @@ Previously, I received my B.S. degree in Automation from Huaqiao University, Xia
 - *2024.08* &nbsp; **Best Prototype Award** in the Technology Category at the 2024 International Convention on Rehabilitation Engineering and Assistive Technology (i-CREATe 2024).
 - *2023.08* &nbsp; **Best Conference Paper Finalist** at the Eighth International Conference on Cognitive Systems and Information Processing (ICCSIP 2023).
 - *2022.12* &nbsp; **Future Talent Support Program** of the Shanghai Branch of the Chinese Academy of Sciences.
-- *2022.11* &nbsp; **National Scholarship** (1.5% Nationwide).
+- *2022.11* &nbsp; **National Scholarship**.
 - *2022.11* &nbsp; **Third Prize** in the Artificial Intelligence Category at the First Staff Skills Competition of the Chinese Academy of Sciences.
 - *2021.09* &nbsp; **Lu Jiaxi Outstanding Freshmen Scholarship**.
 - *2021.08* &nbsp; **First Prize** in the 2021 Outstanding University Student Entrepreneurial Teams Selection for Beijing Universities.
@@ -117,5 +118,5 @@ Previously, I received my B.S. degree in Automation from Huaqiao University, Xia
 
 # 🗺️ Visitor Map
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=54e0ojatafc&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+<script src="//ra.revolvermaps.com/0/0/8.js?i=0pdvpgzth5r&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33&amp;v0=20&amp;z=11" async="async"></script>
 
