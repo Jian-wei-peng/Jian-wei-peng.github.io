@@ -23,8 +23,6 @@ I am a Research Assistant at the Quanzhou Institute of Equipment Manufacturing, 
 
 Previously, I received my B.S. degree in Automation from Huaqiao University, Xiamen, China, in 2020, where I was recognized as an outstanding graduate. In the same year, I secured direct admission to the graduate program at the University of Chinese Academy of Sciences, with the Fujian Institute of Research on the Structure of Matter, Chinese Academy of Sciences as my academic training unit. In 2023, I earned my M.S. degree in Control Engineering from the University of Chinese Academy of Sciences.
 
-[CV](http://Jian-wei-peng.github.io/files/CV.pdf)
-
 
 # 🔥 News
 - *2024.09*: &nbsp; One paper is accepted by Biomimetic Intelligence and Robotics (*ESCI, EI*). 
@@ -78,7 +76,7 @@ Previously, I received my B.S. degree in Automation from Huaqiao University, Xia
 5. **Human-Robot Interaction Dynamics-Based Impedance Control Strategy for Enhancing Social Acceptance of Human-Following Robot.** <br />**Jianwei Peng**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai. <br />**CAC 2023**. [[paper](http://Jian-wei-peng.github.io/files/cac2023.pdf)] [[link](https://ieeexplore.ieee.org/abstract/document/10452070)]
 6. **A compliant robot control based on extended social-force model for human-following and obstacle avoidance.** <br />**Jianwei Peng**, Zhelin Liao, Hanchen Yao, Zhiyu Wan, Liqi Zhu, and Houde Dai. <br />**Journal of System Simulation 2023**. [[paper](http://Jian-wei-peng.github.io/files/jss2023.pdf)] [[link](https://dc-china-simulation.researchcommons.org/journal/vol35/iss8/14/)]
 7. **A Compliant Human Following Method for Mobile Robot Based on an Improved Spring Model.** <br />Hanchen Yao, **Jianwei Peng**,  Houde Dai, and Mingqiang Lin. <br />**ROBOT 2021**. [[paper](http://Jian-wei-peng.github.io/files/robot2021.pdf)] [[link](https://robot.sia.cn/article/doi/10.13973/j.cnki.robot.200310)]
-8. **LQR-based control strategy for improving human–robot companionship and natural obstacle avoidance.** <br />Zefan Su, Hanchen Yao, **Jianwei Peng**, Zhelin Liao, Zengwei Wang, Hui Yu, Houde Dai, and Tim C Lueth. <br />**Biomimetic Intelligence and Robotics 2024**. [[paper](http://Jian-wei-peng.github.io/files/bir2024.pdf)] [[link](https://www.sciencedirect.com/science/article/pii/S2667379724000433)]
+8. **LQR-based control strategy for improving human–robot companionship and natural obstacle avoidance.** <br />Zefan Su, Hanchen Yao, **Jianwei Peng (Research Mentor)**, Zhelin Liao, Zengwei Wang, Hui Yu, Houde Dai, and Tim C Lueth. <br />**Biomimetic Intelligence and Robotics 2024**. [[paper](http://Jian-wei-peng.github.io/files/bir2024.pdf)] [[link](https://www.sciencedirect.com/science/article/pii/S2667379724000433)]
 
 # 🎖 Honors and Awards
 - *2024.08* &nbsp; **Best Prototype Award** in the Technology Category at the 2024 International Convention on Rehabilitation Engineering and Assistive Technology (i-CREATe 2024).
@@ -118,5 +116,5 @@ Previously, I received my B.S. degree in Automation from Huaqiao University, Xia
 
 # 🗺️ Visitor Map
 
-<script src="//ra.revolvermaps.com/0/0/8.js?i=0pdvpgzth5r&amp;m=7&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33&amp;v0=20&amp;z=11" async="async"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=QT14nrMdJBBfJnToCAdHBIBl4K1SpZ_JroXpKbgCiQ8&cl=ffffff&w=a"></script>
 
