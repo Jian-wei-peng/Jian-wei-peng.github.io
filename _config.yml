@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jianwei Peng"
-description              : "I'm looking for a suitable PhD position"
+description              : "Robotics Researcher, PhD student at SUSTech"
 repository               : "Jian-wei-peng/Jian-wei-peng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Jianwei Peng"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Robotics Researcher"
+  bio              : #"Robotics Researcher"
   location         : "Quanzhou, China"
   employer         :
   pubmed           : 
@@ -55,6 +55,7 @@ author:
   vine             :
   weibo            :
   xing             :
+  youtube          : "@jianweipeng1737"
 
 
 # Reading Files
