@@ -19,14 +19,15 @@ redirect_from:
 
 # 🧍‍♂️ About Me
 
-I am currently a Research Assistant at the Quanzhou Institute of Equipment Manufacturing, Haixi Institutes, Chinese Academy of Sciences, working with [Prof. Houde Dai](https://people.ucas.edu.cn/~dhd?language=en). I am about to pursue a Ph.D. in Control Science and Engineering at the Department of Electronics and Electrical Engineering, Southern University of Science and Technology (SUSTech), under the supervision of [Prof. Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Prof. Hong Zhang](https://rcvlab.eee.sustech.edu.cn/authors/hong_zhang/). 
+I am currently a Research and Teaching Assistant at the Key Laboratory of Robotic Perception and Intelligence, Southern University of Science and Technology (SUSTech), working with [Prof. Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html). I will embark on my Ph.D. studies at SUSTech this fall, co-advised by [Professor Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Chair Professor Hong Zhang](https://rcvlab.eee.sustech.edu.cn/authors/hong_zhang/). 
 
-Previously, I obtained my Bachelor's degree in Automation from Huaqiao University, Xiamen, China, in 2020, where I was recognized as an outstanding graduate. In the same year, I was directly admitted to the graduate program at the University of Chinese Academy of Sciences, with the Fujian Institute of Research on the Structure of Matter, Chinese Academy of Sciences as my academic training unit. In 2023, I earned my Master's degree in Control Engineering from the University of Chinese Academy of Sciences.
+Previously, I served as a Research Assistant at the Quanzhou Institute of Equipment Manufacturing, Haixi Institutes, Chinese Academy of Sciences (CAS), working with [Professor Houde Dai](https://people.ucas.edu.cn/~dhd?language=en). I obtained my B.Eng in Automation from Huaqiao University in 2020. In the same year, I was admitted through the exemption program to the University of Chinese Academy of Sciences (UCAS), with my graduate training conducted at the Fujian Institute of Research on the Structure of Matter, CAS. I received my M.Eng in Control Engineering in 2023.
 
 My research focuses on robotics, specifically in the areas of planning, control, and social awareness for human-following robots. I am currently dedicated to developing user-aware control strategies that enable robots to follow or accompany users while respecting their social space. My ultimate goal is to create a socially-aware Robot Person Following system that adheres to social norms and demonstrates reliable intelligence in assisting humans.
 
 
 # 🔥 News
+- *2025.01*: &nbsp; 🚀 Exciting Update! 🚀 This Fall I begin my PhD in Robotics at SUSTech, co-advised by two amazing mentors: [Professor Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Chair Professor Hong Zhang](https://rcvlab.eee.sustech.edu.cn/authors/hong_zhang/). 🤖
 - *2024.05*: &nbsp; Presenting our work at ICRA 2024 in Yokohama, Japan. My first oral presentation in my academic career !
 - *2024.02*: &nbsp; One paper is accepted by ICRA 2024.
 - *2023.08*: &nbsp; My second-authored paper received the Best Conference Paper Finalist at 2023 International Conference on Cognitive Systems and Signal Processing (ICCSIP 2023). 
@@ -35,44 +36,33 @@ My research focuses on robotics, specifically in the areas of planning, control,
 - *2022.12*: &nbsp; I received a funding from the Future Talent Support Programme of the Shanghai Branch of the Chinese Academy of Sciences.
 - *2022.11*: &nbsp; I received the National Scholarship.
 
-# 📝 Publications 
+# 📝 Selected Publications
 
 <div class='paper-box'><div class='paper-box-image'><img src='files/ICRA24.gif' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
-
 **[A Dual Closed-Loop Control Strategy for Human-Following Robots Respecting Social Space](https://ieeexplore.ieee.org/abstract/document/10611263)**
 
 **Jianwei Peng**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai
 
 2024 IEEE International Conference on Robotics and Automation (ICRA). 
 
-[[video](https://www.youtube.com/watch?v=Q1BG2GLAg8c)]
+[[paper](http://Jian-wei-peng.github.io/files/icra2024.pdf)] [[doi](https://ieeexplore.ieee.org/abstract/document/10611263)] [[video](https://www.youtube.com/watch?v=Q1BG2GLAg8c)]
 
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='files/IROS23.gif' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
-
 **[MPC-Based Human-Accompanying Control Strategy for Improving the Motion Coordination Between the Target Person and the Robot](https://ieeexplore.ieee.org/abstract/document/10342246)**
 
 **Jianwei Peng**, Zhelin Liao, Hanchen Yao, Zefan Su, Yadan Zeng, and Houde Dai
 
 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 
 
-[[video](https://www.youtube.com/watch?v=rw8Gd4XVBu8)]
+[[paper](http://Jian-wei-peng.github.io/files/iros2023.pdf)] [[doi](https://ieeexplore.ieee.org/abstract/document/10342246)] [[video](https://www.youtube.com/watch?v=rw8Gd4XVBu8)]
 
 </div>
 </div>
-
-1. **A Dual Closed-Loop Control Strategy for Human-Following Robots Respecting Social Space.** <br />**Jianwei Peng**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai. <br />**ICRA 2024**. [[paper](http://Jian-wei-peng.github.io/files/icra2024.pdf)] [[video](https://www.youtube.com/watch?v=Q1BG2GLAg8c)]
-2. **MPC-Based Human-Accompanying Control Strategy for Improving the Motion Coordination Between the Target Person and the Robot.** <br />**Jianwei Peng**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai. <br />**IROS 2023**. [[paper](http://Jian-wei-peng.github.io/files/iros2023.pdf)] [[video](https://www.youtube.com/watch?v=rw8Gd4XVBu8)]
-3. **Leg Detection for Socially Assistive Robots: Differentiating Multiple Targets with 2D LiDAR.** <br />Hanchen Yao, **Jianwei Peng**, Zhelin Liao, Ran Zhao, and Houde Dai. <br />**ICCSIP 2023 Best Conference Paper Finalist**. [[paper](http://Jian-wei-peng.github.io/files/ICCSIP2023.pdf)] [[link](https://link.springer.com/chapter/10.1007/978-981-99-8018-5_7)]
-4. **Admittance Control-based Human-accompanying and Obstacle-avoidance Control Strategy for Social Robot.** <br />Zhelin Liao, **Jianwei Peng (Research Mentor)**, Hanchen Yao, Zefan Su, and Houde Dai. <br />**ROBOT 2024**. [[paper](http://Jian-wei-peng.github.io/files/robot2024.pdf)] [[link](https://robot.sia.cn/article/doi/10.13973/j.cnki.robot.230163)]
-5. **Human-Robot Interaction Dynamics-Based Impedance Control Strategy for Enhancing Social Acceptance of Human-Following Robot.** <br />**Jianwei Peng**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai. <br />**CAC 2023**. [[paper](http://Jian-wei-peng.github.io/files/cac2023.pdf)] [[link](https://ieeexplore.ieee.org/abstract/document/10452070)]
-6. **A compliant robot control based on extended social-force model for human-following and obstacle avoidance.** <br />**Jianwei Peng**, Zhelin Liao, Hanchen Yao, Zhiyu Wan, Liqi Zhu, and Houde Dai. <br />**Journal of System Simulation 2023**. [[paper](http://Jian-wei-peng.github.io/files/jss2023.pdf)] [[link](https://dc-china-simulation.researchcommons.org/journal/vol35/iss8/14/)]
-7. **A Compliant Human Following Method for Mobile Robot Based on an Improved Spring Model.** <br />Hanchen Yao, **Jianwei Peng**,  Houde Dai, and Mingqiang Lin. <br />**ROBOT 2021**. [[paper](http://Jian-wei-peng.github.io/files/robot2021.pdf)] [[link](https://robot.sia.cn/article/doi/10.13973/j.cnki.robot.200310)]
-8. **LQR-based control strategy for improving human–robot companionship and natural obstacle avoidance.** <br />Zefan Su, Hanchen Yao, **Jianwei Peng (Research Mentor)**, Zhelin Liao, Zengwei Wang, Hui Yu, Houde Dai, and Tim C Lueth. <br />**Biomimetic Intelligence and Robotics 2024**. [[paper](http://Jian-wei-peng.github.io/files/bir2024.pdf)] [[link](https://www.sciencedirect.com/science/article/pii/S2667379724000433)]
 
 # 🎖 Honors and Awards
 - *2024.08* &nbsp; **Best Prototype Award** in the Technology Category at the 2024 International Convention on Rehabilitation Engineering and Assistive Technology (i-CREATe 2024).
@@ -96,19 +86,22 @@ My research focuses on robotics, specifically in the areas of planning, control,
 
 - ### Conference Reviewer:
 
-  - IEEE International Conference on Robotics and Automation (ICRA), 2023, 2025
-  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022, 2023, 2024
-  - IEEE International Conference on Robotics and Biomimetics (ROBIO), 2022, 2023
-  - China Automation Conference (CAC), 2023
+  - IEEE International Conference on Robotics and Automation (ICRA)
+  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+  - IEEE International Conference on Robotics and Biomimetics (ROBIO)
+  - China Automation Conference (CAC)
 
 # 📖 Educations
 
-- *2020.09 - 2023.06*, M.S. Fujian Institute of Research on the Structure of Matter, Chinese Academy of Sciences, Control Engineering.
-- *2016.09 - 2020.06*, B.S. Huaqiao University, Automation.
+- *2025.09 - 2029.6 (expected)*, Ph.D. in Control Science and Engineering, Southern University of Science and Technology (Shenzhen, China).
+- *2020.09 - 2023.06*, M.S. in Control Engineering, University of Chinese Academy of Sciences (Beijing, China)
+  - *2021.08 - 2023.06*, Fujian Institute of Research on the Structure of Matter, CAS (Quanzhou, China)
+- *2016.09 - 2020.06*, B.S. in Automation, Huaqiao University (Xiamen, China)
 
 # 💻 Work Experience
-- *2023.07 - Now*, Research Assistant, Quanzhou Institute of Equipment Manufacturing, Haixi Institutes, Chinese Academy of Sciences.
-- *2019.10 - 2020.08*, Intern, Quanzhou Institute of Equipment Manufacturing, Haixi Institutes, Chinese Academy of Sciences.
+- *2025.03 - Present*,  Research and Teaching Assistant, Southern University of Science and Technology
+- *2023.07 - 2025.03*, Research Assistant, Quanzhou Institute of Equipment Manufacturing, CAS
+- *2019.10 - 2020.08*, Intern, Quanzhou Institute of Equipment Manufacturing, CAS
 
 # 🗺️ Visitor Map
 
