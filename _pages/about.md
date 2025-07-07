@@ -81,6 +81,7 @@ My research focuses on robotics, specifically in the areas of planning, control,
 # 💬 Academic Services
 - **Journal Reviewer:**
 
+  - IEEE Robotics and Automation Letters (RAL)
   - IEEE Transactions on Systems, Man, and Cybernetics
   - Robotics and Autonomous Systems
 
