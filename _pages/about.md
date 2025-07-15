@@ -19,24 +19,34 @@ redirect_from:
 
 # 🧍‍♂️ About Me
 
-I am currently a Research and Teaching Assistant at the Key Laboratory of Robotic Perception and Intelligence, Southern University of Science and Technology (SUSTech), working with [Prof. Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Prof. Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/about.html).I will embark on my Ph.D. studies at SUSTech this fall, co-advised by [Prof. Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Prof. Hong Zhang](https://rcvlab.eee.sustech.edu.cn/authors/hong_zhang/). 
+I am currently a Research and Teaching Assistant at the Key Laboratory of Robotic Perception and Intelligence, Southern University of Science and Technology (SUSTech), working with [Prof. Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Prof. Max Q.-H. Meng](https://www.sustech.edu.cn/en/faculties/mengqinghu.html).I will embark on my Ph.D. studies at SUSTech this fall, co-advised by [Prof. Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Prof. Hong Zhang](https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en). 
 
 Previously, I served as a Research Assistant at the Quanzhou Institute of Equipment Manufacturing, Haixi Institutes, Chinese Academy of Sciences (CAS), working with [Prof. Houde Dai](https://people.ucas.edu.cn/~dhd?language=en). I obtained my B.Eng. in Automation from Huaqiao University in 2020. In the same year, I was admitted through the exemption program to the University of Chinese Academy of Sciences (UCAS), with my graduate training conducted at the Fujian Institute of Research on the Structure of Matter, CAS. I received my M.Eng. in Control Engineering in 2023.
 
-My research focuses on robotics, specifically in the areas of planning, control, and social awareness for human-following robots. I am currently dedicated to developing user-aware control strategies that enable robots to follow or accompany users while respecting their social space. My ultimate goal is to create a socially-aware Robot Person Following system that adheres to social norms and demonstrates reliable intelligence in assisting humans.
+My research focuses on robotics, specifically in the areas of planning, control, and reinforcement learning for human-following robots. My ultimate goal is to create a socially-aware Robot Person Following system that adheres to social norms and demonstrates reliable intelligence in assisting humans.
 
 
 # 🔥 News
-- *2025.01*: &nbsp; 🚀 Exciting Update! 🚀 This Fall I begin my PhD in Robotics at SUSTech, co-advised by two amazing mentors: [Professor Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Chair Professor Hong Zhang](https://rcvlab.eee.sustech.edu.cn/authors/hong_zhang/). 🤖
-- *2024.05*: &nbsp; Presenting our work at ICRA 2024 in Yokohama, Japan. My first oral presentation in my academic career !
+- *2025.07*: &nbsp; Check out our latest work, “LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR,” introduces a lightweight end-to-end policy for multiagent navigation that enables map-free collision avoidance in complex environments by directly mapping raw 2D LiDAR point clouds to motion commands. The code will be released upon paper acceptance.
+- *2025.01*: &nbsp; Exciting Update! This Fall I begin my PhD in Robotics at SUSTech, co-advised by two amazing mentors: [Professor Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Chair Professor Hong Zhang](https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en). 
+- *2024.05*: &nbsp; Presenting our work at ICRA 2024 in Yokohama, Japan. My first oral presentation in my academic career 🎉
 - *2024.02*: &nbsp; One paper is accepted by ICRA 2024.
-- *2023.08*: &nbsp; My second-authored paper received the Best Conference Paper Finalist at 2023 International Conference on Cognitive Systems and Signal Processing (ICCSIP 2023). 
-- *2023.06*: &nbsp; One paper is accepted by IROS 2023.
-- *2023.06*: &nbsp; I received my M.S. degree !!! 🎉🎉
-- *2022.12*: &nbsp; I received a funding from the Future Talent Support Programme of the Shanghai Branch of the Chinese Academy of Sciences.
-- *2022.11*: &nbsp; I received the National Scholarship.
 
 # 📝 Selected Publications
+
+<div class='paper-box'><div class='paper-box-image'><img src='files/LSTP.gif' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+**[LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR](https://arxiv.org/abs/2408.16370)**
+
+
+Xingrong Diao, Zhirui Sun, **Jianwei Peng**, Jiankun Wang
+
+Under Review. 
+
+[[arXiv](http://Jian-wei-peng.github.io/files/icra2024.pdf)] [[site](https://sites.google.com/view/xingrong2024efficient)]
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='files/ICRA24.gif' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
