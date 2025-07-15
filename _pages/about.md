@@ -27,7 +27,7 @@ My research focuses on robotics, specifically in the areas of planning, control,
 
 
 # 🔥 News
-- *2025.07*: &nbsp; Check out our latest work, “LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR,” introduces a lightweight end-to-end policy for multiagent navigation that enables map-free collision avoidance in complex environments by directly mapping raw 2D LiDAR point clouds to motion commands. The code will be released upon paper acceptance.
+- *2025.07*: &nbsp; Check out our latest work, “LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR,” introduces a lightweight end-to-end policy for multiagent navigation that enables map-free collision avoidance in complex environments by directly mapping raw 2D LiDAR point clouds to motion commands. Explore the details on the [project website](https://sites.google.com/view/xingrong2024efficient) and [arXiv](https://arxiv.org/abs/2408.16370).
 - *2025.01*: &nbsp; Exciting Update! This Fall I begin my PhD in Robotics at SUSTech, co-advised by two amazing mentors: [Professor Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Chair Professor Hong Zhang](https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en). 
 - *2024.05*: &nbsp; Presenting our work at ICRA 2024 in Yokohama, Japan. My first oral presentation in my academic career 🎉
 - *2024.02*: &nbsp; One paper is accepted by ICRA 2024.
@@ -41,9 +41,9 @@ My research focuses on robotics, specifically in the areas of planning, control,
 
 Xingrong Diao, Zhirui Sun, **Jianwei Peng**, Jiankun Wang
 
-Under Review. 
+Under Review
 
-[[arXiv](http://Jian-wei-peng.github.io/files/icra2024.pdf)] [[site](https://sites.google.com/view/xingrong2024efficient)]
+[[arXiv](https://arxiv.org/abs/2408.16370)] [[site](https://sites.google.com/view/xingrong2024efficient)]
 
 </div>
 </div>
