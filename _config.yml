@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jianwei Peng"
+title                    : "Jianwei Peng (彭建伟)"
 description              : "PhD student at SUSTech"
 repository               : "Jian-wei-peng/Jian-wei-peng.github.io"
 google_scholar_stats_use_cdn : true
