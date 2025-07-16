@@ -19,11 +19,11 @@ redirect_from:
 
 # 🧍‍♂️ About Me
 
-I am currently a Research and Teaching Assistant at the Key Laboratory of Robotic Perception and Intelligence, Southern University of Science and Technology (SUSTech), working with [Prof. Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Prof. Max Q.-H. Meng](https://www.sustech.edu.cn/en/faculties/mengqinghu.html).I will embark on my Ph.D. studies at SUSTech this fall, co-advised by [Prof. Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Prof. Hong Zhang](https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en). 
+I am a Ph.D. student in the Department of Electronic and Electrical Engineering at Southern University of Science and Technology ([SUSTech](https://www.sustech.edu.cn/en/)), co-advised by [Prof. Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Prof. Hong Zhang](https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en). My research focuses on robotics, specifically planning, control, and reinforcement learning for robot person following (RPF). My long-term goal is to develop a socially-aware RPF system that adheres to social norms while demonstrating robust assistive intelligence.
 
-Previously, I served as a Research Assistant at the Quanzhou Institute of Equipment Manufacturing, Haixi Institutes, Chinese Academy of Sciences (CAS), working with [Prof. Houde Dai](https://people.ucas.edu.cn/~dhd?language=en). I obtained my B.Eng. in Automation from Huaqiao University in 2020. In the same year, I was admitted through the exemption program to the University of Chinese Academy of Sciences (UCAS), with my graduate training conducted at the Fujian Institute of Research on the Structure of Matter, CAS. I received my M.Eng. in Control Engineering in 2023.
+Previously, I served as a research and teaching assistant at the Shenzhen Key Laboratory of Robotic Perception and Intelligence, SUSTech (2025), working with [Prof. Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Prof. Max Q.-H. Meng](https://www.sustech.edu.cn/en/faculties/mengqinghu.html). Earlier in 2024, I was a research assistant at the [Quanzhou Institute of Equipment Manufacturing](http://english.fjirsm.cas.cn/et/), Chinese Academy of Sciences (CAS), working with [Prof. Houde Dai](https://people.ucas.edu.cn/~dhd?language=en). 
 
-My research focuses on robotics, specifically in the areas of planning, control, and reinforcement learning for human-following robots. My ultimate goal is to create a socially-aware Robot Person Following system that adheres to social norms and demonstrates reliable intelligence in assisting humans.
+ I obtained my B.Eng. in Automation from [Huaqiao University](https://en.hqu.edu.cn/) in 2020. That same year, I was admitted via merit-based exemption to the [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/), where I pursued graduate studies at the [Fujian Institute of Research on the Structure of Matter](http://english.fjirsm.cas.cn/et/), CAS. I received my M.Eng. in Control Engineering in 2023.
 
 
 # 🔥 News
@@ -33,6 +33,8 @@ My research focuses on robotics, specifically in the areas of planning, control,
 - *2024.02*: &nbsp; One paper is accepted by ICRA 2024.
 
 # 📝 Selected Publications
+
+Full publication list is available on [google scholar](https://scholar.google.com/citations?user=ZLUN4K0AAAAJ&hl=en).
 
 <div class='paper-box'><div class='paper-box-image'><img src='files/LSTP.gif' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -104,13 +106,13 @@ Under Review
 
 # 📖 Educations
 
-- *2025.09 - 2029.6 (expected)*, Ph.D. in Control Science and Engineering, Southern University of Science and Technology (Shenzhen, China).
+- *2025.08 - 2029.6 (expected)*, Ph.D. in Control Science and Engineering, Southern University of Science and Technology (Shenzhen, China).
 - *2020.09 - 2023.06*, M.Eng. in Control Engineering, University of Chinese Academy of Sciences (Beijing, China)
   - *2021.08 - 2023.06*, Fujian Institute of Research on the Structure of Matter, CAS (Quanzhou, China)
 - *2016.09 - 2020.06*, B.Eng. in Automation, Huaqiao University (Xiamen, China)
 
 # 💻 Work Experience
-- *2025.03 - Present*,  Research and Teaching Assistant, Southern University of Science and Technology
+- *2025.03 - 2025.08*,  Research and Teaching Assistant, Southern University of Science and Technology
 - *2023.07 - 2025.03*, Research Assistant, Quanzhou Institute of Equipment Manufacturing, CAS
 - *2019.10 - 2020.08*, Intern, Quanzhou Institute of Equipment Manufacturing, CAS
 
