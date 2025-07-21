@@ -102,6 +102,8 @@ Under Review
   - IEEE International Conference on Robotics and Automation (ICRA)
   - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
   - IEEE International Conference on Robotics and Biomimetics (ROBIO)
+  - IEEE International Conference on Information Automation (ICIA)
+  - International Conference on Biomimetic Intelligence and Robotics (ICBIR)
   - China Automation Conference (CAC)
 
 # 📖 Educations
