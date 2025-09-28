@@ -38,11 +38,12 @@ Previously, I served as a research and teaching assistant at the Shenzhen Key La
 
 Full publication list is available on [google scholar](https://scholar.google.com/citations?user=ZLUN4K0AAAAJ&hl=en).
 
-## Robot Person Following
+## 🚶 Robot Person Following
 
-<div class='paper-box'><div class='paper-box-image'><img src='files/follo-bench.mp4' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><video width="100%" autoplay loop muted playsinline><source src="files/follo-bench.mp4" type="video/mp4"></video></div>
 <div class='paper-box-text' markdown="1">
 **[Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following](https://arxiv.org/abs/2509.10796)**
+
 
 
 Hanjing Ye, Weixi Situ, **Jianwei Peng**, Yu Zhan, Bingyi Xia, Kuanqi Cai, Hong Zhang
@@ -82,13 +83,14 @@ Under Review
 </div>
 </div>
 
+---
 
+## 📍 Navigation
 
-## Navigation
-
-<div class='paper-box'><div class='paper-box-image'><img src='files/ezreal.mp4' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><video width="100%" autoplay loop muted playsinline><source src="files/ezreal.mp4" type="video/mp4"></video></div>
 <div class='paper-box-text' markdown="1">
 **[EZREAL: Enhancing Zero-Shot Outdoor Robot Navigation toward Distant Targets under Varying Visibility](https://arxiv.org/abs/2509.13720)**
+
 
 Tianle Zeng, **Jianwei Peng**, Hanjing Ye, Guangcheng Chen, Senzi Luo, Hong Zhang
 
