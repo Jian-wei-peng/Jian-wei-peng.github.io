@@ -40,13 +40,16 @@ Full publication list is available on [google scholar](https://scholar.google.co
 
 ## 🚶 Robot Person Following
 
-<div class='paper-box'><div class='paper-box-image'><video width="100%" autoplay loop muted playsinline><source src="files/follo-bench.mp4" type="video/mp4"></video></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <video width="100%" autoplay loop muted playsinline>
+            <source src="files/follow_bench.mp4" type="video/mp4">
+        </video>
+    </div>
+	<div class='paper-box-text' markdown="1">
 **[Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following](https://arxiv.org/abs/2509.10796)**
 
-
-
-Hanjing Ye, Weixi Situ, **Jianwei Peng**, Yu Zhan, Bingyi Xia, Kuanqi Cai, Hong Zhang
+Hanjing Ye, Weixi Situ, <u>**Jianwei Peng**</u>, Yu Zhan, Bingyi Xia, Kuanqi Cai, Hong Zhang
 
 Under Review
 
@@ -55,12 +58,13 @@ Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='files/ICRA24.gif' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <img src='files/ICRA24.gif' alt="sym" width="100%">
+    </div>
+    <div class='paper-box-text' markdown="1">
 **[A Dual Closed-Loop Control Strategy for Human-Following Robots Respecting Social Space](https://ieeexplore.ieee.org/abstract/document/10611263)**
-
-
-**Jianwei Peng**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai
+<u>**Jianwei Peng**</u>, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai
 
 2024 IEEE International Conference on Robotics and Automation (ICRA). 
 
@@ -69,12 +73,13 @@ Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='files/IROS23.gif' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <img src='files/IROS23.gif' alt="sym" width="100%">
+    </div>
+    <div class='paper-box-text' markdown="1">
 **[MPC-Based Human-Accompanying Control Strategy for Improving the Motion Coordination Between the Target Person and the Robot](https://ieeexplore.ieee.org/abstract/document/10342246)**
-
-
-**Jianwei Peng**, Zhelin Liao, Hanchen Yao, Zefan Su, Yadan Zeng, and Houde Dai
+<u>**Jianwei Peng**</u>, Zhelin Liao, Hanchen Yao, Zefan Su, Yadan Zeng, and Houde Dai
 
 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 
 
@@ -83,16 +88,20 @@ Under Review
 </div>
 </div>
 
----
+
 
 ## 📍 Navigation
 
-<div class='paper-box'><div class='paper-box-image'><video width="100%" autoplay loop muted playsinline><source src="files/ezreal.mp4" type="video/mp4"></video></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <video width="100%" autoplay loop muted playsinline>
+            <source src="files/ezreal.mp4" type="video/mp4">
+        </video>
+    </div>
+    <div class='paper-box-text' markdown="1">
 **[EZREAL: Enhancing Zero-Shot Outdoor Robot Navigation toward Distant Targets under Varying Visibility](https://arxiv.org/abs/2509.13720)**
 
-
-Tianle Zeng, **Jianwei Peng**, Hanjing Ye, Guangcheng Chen, Senzi Luo, Hong Zhang
+Tianle Zeng, <u>**Jianwei Peng**</u>, Hanjing Ye, Guangcheng Chen, Senzi Luo, Hong Zhang
 
 Under Review
 
@@ -101,10 +110,14 @@ Under Review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='files/LSTP.gif' alt="sym" width="100%"></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <img src='files/LSTP.gif' alt="sym" width="100%">
+    </div>
+    <div class='paper-box-text' markdown="1">
 **[LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR](https://arxiv.org/abs/2408.16370)**
-Xingrong Diao, Zhirui Sun, **Jianwei Peng**, Jiankun Wang
+
+Xingrong Diao, Zhirui Sun, <u>**Jianwei Peng**</u>, Jiankun Wang
 
 Under Review
 
