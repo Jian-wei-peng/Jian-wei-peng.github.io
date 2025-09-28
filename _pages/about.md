@@ -77,7 +77,7 @@ Under Review
 
 2024 IEEE International Conference on Robotics and Automation (ICRA). 
 
-[[paper](http://Jian-wei-peng.github.io/files/icra2024.pdf)] [[video](https://www.youtube.com/watch?v=Q1BG2GLAg8c)]
+[[paper](http://Jian-wei-peng.github.io/files/icra2024.pdf)]
 
 </div>
 </div>
@@ -98,7 +98,7 @@ Under Review
 
 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 
 
-[[paper](http://Jian-wei-peng.github.io/files/iros2023.pdf)] [[video](https://www.youtube.com/watch?v=rw8Gd4XVBu8)]
+[[paper](http://Jian-wei-peng.github.io/files/iros2023.pdf)] 
 
 </div>
 </div>
