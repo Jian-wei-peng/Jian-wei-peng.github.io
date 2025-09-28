@@ -27,25 +27,29 @@ Previously, I served as a research and teaching assistant at the Shenzhen Key La
 
 
 # 🔥 News
-- *2025.07*: &nbsp; Check out our latest work, “LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR,” introduces a lightweight end-to-end policy for multiagent navigation that enables map-free collision avoidance in complex environments by directly mapping raw 2D LiDAR point clouds to motion commands. Explore the details on the [project website](https://sites.google.com/view/xingrong2024efficient) and [arXiv](https://arxiv.org/abs/2408.16370).
+- *2025.09*: &nbsp; Check out our latest work, “Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following.” This work provides a comprehensive review of RPF scenarios, evaluation metrics, and planners, with a particular emphasis on requirements of safety and comfort. It further introduces a unified benchmark for the systematic evaluation of RPF planners.  Learn more on the [project website](https://follow-bench.github.io/).
+- *2025.09*: &nbsp; Check out our latest work, “EZREAL: Enhancing Zero-Shot Outdoor Robot Navigation toward Distant Targets under Varying Visibility.”
+- *2025.07*: &nbsp; Check out our latest work, “LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR.”
 - *2025.01*: &nbsp; Exciting Update! This Fall I begin my PhD in Robotics at SUSTech, co-advised by two amazing mentors: [Professor Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Chair Professor Hong Zhang](https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en). 
 - *2024.05*: &nbsp; Presenting our work at ICRA 2024 in Yokohama, Japan. My first oral presentation in my academic career 🎉
 - *2024.02*: &nbsp; One paper is accepted by ICRA 2024.
 
-# 📝 Selected Publications
+# 📝 Research
 
 Full publication list is available on [google scholar](https://scholar.google.com/citations?user=ZLUN4K0AAAAJ&hl=en).
 
-<div class='paper-box'><div class='paper-box-image'><img src='files/LSTP.gif' alt="sym" width="100%"></div>
+## Robot Person Following
+
+<div class='paper-box'><div class='paper-box-image'><img src='files/follo-bench.mp4' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
-**[LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR](https://arxiv.org/abs/2408.16370)**
+**[Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following](https://arxiv.org/abs/2509.10796)**
 
 
-Xingrong Diao, Zhirui Sun, **Jianwei Peng**, Jiankun Wang
+Hanjing Ye, Weixi Situ, **Jianwei Peng**, Yu Zhan, Bingyi Xia, Kuanqi Cai, Hong Zhang
 
 Under Review
 
-[[arXiv](https://arxiv.org/abs/2408.16370)] [[site](https://sites.google.com/view/xingrong2024efficient)]
+[[arXiv](https://arxiv.org/abs/2509.10796)] [[site](https://follow-bench.github.io/)]
 
 </div>
 </div>
@@ -53,6 +57,7 @@ Under Review
 <div class='paper-box'><div class='paper-box-image'><img src='files/ICRA24.gif' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 **[A Dual Closed-Loop Control Strategy for Human-Following Robots Respecting Social Space](https://ieeexplore.ieee.org/abstract/document/10611263)**
+
 
 **Jianwei Peng**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai
 
@@ -67,11 +72,41 @@ Under Review
 <div class='paper-box-text' markdown="1">
 **[MPC-Based Human-Accompanying Control Strategy for Improving the Motion Coordination Between the Target Person and the Robot](https://ieeexplore.ieee.org/abstract/document/10342246)**
 
+
 **Jianwei Peng**, Zhelin Liao, Hanchen Yao, Zefan Su, Yadan Zeng, and Houde Dai
 
 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 
 
 [[paper](http://Jian-wei-peng.github.io/files/iros2023.pdf)] [[video](https://www.youtube.com/watch?v=rw8Gd4XVBu8)]
+
+</div>
+</div>
+
+
+
+## Navigation
+
+<div class='paper-box'><div class='paper-box-image'><img src='files/ezreal.mp4' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+**[EZREAL: Enhancing Zero-Shot Outdoor Robot Navigation toward Distant Targets under Varying Visibility](https://arxiv.org/abs/2509.13720)**
+
+Tianle Zeng, **Jianwei Peng**, Hanjing Ye, Guangcheng Chen, Senzi Luo, Hong Zhang
+
+Under Review
+
+[[arXiv](https://arxiv.org/abs/2509.13720)] 
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><img src='files/LSTP.gif' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+**[LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR](https://arxiv.org/abs/2408.16370)**
+Xingrong Diao, Zhirui Sun, **Jianwei Peng**, Jiankun Wang
+
+Under Review
+
+[[arXiv](https://arxiv.org/abs/2408.16370)] [[site](https://sites.google.com/view/xingrong2024efficient)]
 
 </div>
 </div>
@@ -114,7 +149,7 @@ Under Review
 - *2016.09 - 2020.06*, B.Eng. in Automation, Huaqiao University (Xiamen, China)
 
 # 💻 Work Experience
-- *2025.03 - 2025.08*,  Research and Teaching Assistant, Southern University of Science and Technology
+- *2025.04 - 2025.08*,  Research and Teaching Assistant, Southern University of Science and Technology
 - *2023.07 - 2025.03*, Research Assistant, Quanzhou Institute of Equipment Manufacturing, CAS
 - *2019.10 - 2020.08*, Intern, Quanzhou Institute of Equipment Manufacturing, CAS
 
