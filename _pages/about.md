@@ -28,8 +28,8 @@ Previously, I served as a research and teaching assistant at the Shenzhen Key La
 
 # 🔥 News
 - *2025.09*: &nbsp; Check out our latest work, “Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following.” This work provides a comprehensive review of RPF scenarios, evaluation metrics, and planners, with a particular emphasis on requirements of safety and comfort. It further introduces a unified benchmark for the systematic evaluation of RPF planners.  Learn more on the [project website](https://follow-bench.github.io/).
-- *2025.09*: &nbsp; Check out our latest work, “EZREAL: Enhancing Zero-Shot Outdoor Robot Navigation toward Distant Targets under Varying Visibility.”
-- *2025.07*: &nbsp; Check out our latest work, “LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR.”
+- *2025.09*: &nbsp; Check out our recent work, “EZREAL: Enhancing Zero-Shot Outdoor Robot Navigation toward Distant Targets under Varying Visibility.”
+- *2025.07*: &nbsp; Check out our recent work, “LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR.”
 - *2025.01*: &nbsp; Exciting Update! This Fall I begin my PhD in Robotics at SUSTech, co-advised by two amazing mentors: [Professor Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Chair Professor Hong Zhang](https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en). 
 - *2024.05*: &nbsp; Presenting our work at ICRA 2024 in Yokohama, Japan. My first oral presentation in my academic career 🎉
 - *2024.02*: &nbsp; One paper is accepted by ICRA 2024.
@@ -37,6 +37,8 @@ Previously, I served as a research and teaching assistant at the Shenzhen Key La
 # 📝 Research
 
 Full publication list is available on [google scholar](https://scholar.google.com/citations?user=ZLUN4K0AAAAJ&hl=en).
+
+---
 
 ## 🚶 Robot Person Following
 
@@ -49,7 +51,8 @@ Full publication list is available on [google scholar](https://scholar.google.co
 	<div class='paper-box-text' markdown="1">
 **[Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following](https://arxiv.org/abs/2509.10796)**
 
-Hanjing Ye, Weixi Situ, <u>**Jianwei Peng**</u>, Yu Zhan, Bingyi Xia, Kuanqi Cai, Hong Zhang
+
+Hanjing Ye, Weixi Situ, **<u>Jianwei Peng</u>**, Yu Zhan, Bingyi Xia, Kuanqi Cai, Hong Zhang
 
 Under Review
 
@@ -64,7 +67,10 @@ Under Review
     </div>
     <div class='paper-box-text' markdown="1">
 **[A Dual Closed-Loop Control Strategy for Human-Following Robots Respecting Social Space](https://ieeexplore.ieee.org/abstract/document/10611263)**
-<u>**Jianwei Peng**</u>, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai
+
+
+
+**<u>Jianwei Peng</u>**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai
 
 2024 IEEE International Conference on Robotics and Automation (ICRA). 
 
@@ -79,7 +85,10 @@ Under Review
     </div>
     <div class='paper-box-text' markdown="1">
 **[MPC-Based Human-Accompanying Control Strategy for Improving the Motion Coordination Between the Target Person and the Robot](https://ieeexplore.ieee.org/abstract/document/10342246)**
-<u>**Jianwei Peng**</u>, Zhelin Liao, Hanchen Yao, Zefan Su, Yadan Zeng, and Houde Dai
+
+
+
+**<u>Jianwei Peng</u>**, Zhelin Liao, Hanchen Yao, Zefan Su, Yadan Zeng, and Houde Dai
 
 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). 
 
@@ -101,7 +110,8 @@ Under Review
     <div class='paper-box-text' markdown="1">
 **[EZREAL: Enhancing Zero-Shot Outdoor Robot Navigation toward Distant Targets under Varying Visibility](https://arxiv.org/abs/2509.13720)**
 
-Tianle Zeng, <u>**Jianwei Peng**</u>, Hanjing Ye, Guangcheng Chen, Senzi Luo, Hong Zhang
+
+Tianle Zeng, **<u>Jianwei Peng</u>**, Hanjing Ye, Guangcheng Chen, Senzi Luo, Hong Zhang
 
 Under Review
 
@@ -117,7 +127,8 @@ Under Review
     <div class='paper-box-text' markdown="1">
 **[LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR](https://arxiv.org/abs/2408.16370)**
 
-Xingrong Diao, Zhirui Sun, <u>**Jianwei Peng**</u>, Jiankun Wang
+
+Xingrong Diao, Zhirui Sun, **<u>Jianwei Peng</u>**, Jiankun Wang
 
 Under Review
 
