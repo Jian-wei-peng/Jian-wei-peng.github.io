@@ -40,7 +40,7 @@ Full publication list is available on [google scholar](https://scholar.google.co
 
 ---
 
-## 🚶 Robot Person Following
+## 👣 Robot Person Following 
 
 <div class='paper-box'>
     <div class='paper-box-image'>
@@ -63,10 +63,13 @@ Under Review
 
 <div class='paper-box'>
     <div class='paper-box-image'>
-        <img src='files/ICRA24.gif' alt="sym" width="100%">
+        <video width="100%" autoplay loop muted playsinline>
+            <source src="files/ICRA24.mp4" type="video/mp4">
+        </video>
     </div>
     <div class='paper-box-text' markdown="1">
 **[A Dual Closed-Loop Control Strategy for Human-Following Robots Respecting Social Space](https://ieeexplore.ieee.org/abstract/document/10611263)**
+
 
 
 
@@ -81,10 +84,13 @@ Under Review
 
 <div class='paper-box'>
     <div class='paper-box-image'>
-        <img src='files/IROS23.gif' alt="sym" width="100%">
+        <video width="100%" autoplay loop muted playsinline>
+            <source src="files/IROS23.mp4" type="video/mp4">
+        </video>
     </div>
     <div class='paper-box-text' markdown="1">
 **[MPC-Based Human-Accompanying Control Strategy for Improving the Motion Coordination Between the Target Person and the Robot](https://ieeexplore.ieee.org/abstract/document/10342246)**
+
 
 
 
@@ -99,7 +105,7 @@ Under Review
 
 
 
-## 📍 Navigation
+## 🧭 Navigation
 
 <div class='paper-box'>
     <div class='paper-box-image'>
