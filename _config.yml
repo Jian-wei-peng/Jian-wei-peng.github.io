@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jianwei Peng (彭建伟)"
+title                    : "Jianwei Peng"
 description              : "PhD student at SUSTech"
 repository               : "Jian-wei-peng/Jian-wei-peng.github.io"
 google_scholar_stats_use_cdn : true
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/%E5%BB%BA%E4%BC%9F-%E5%BD%AD-b3922630a/"
+  linkedin         : # "https://www.linkedin.com/in/%E5%BB%BA%E4%BC%9F-%E5%BD%AD-b3922630a/"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0000-3111-4754"
   pinterest        :
