@@ -27,7 +27,8 @@ Previously, I served as a research and teaching assistant at the Shenzhen Key La
 
 
 # 🔥 News
-- *2025.09*: &nbsp; Check out our latest work, “Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following.” This work provides a comprehensive review of RPF scenarios, evaluation metrics, and planners, with a particular emphasis on requirements of safety and comfort. It further introduces a unified benchmark for the systematic evaluation of RPF planners.  Learn more on the [project website](https://follow-bench.github.io/).
+- *2025.10*: &nbsp; Check out our latest work, “Adap-RPF: Adaptive Trajectory Sampling for Robot Person Following in Dynamic Crowded Environments.”
+- *2025.09*: &nbsp; Check out our recent work, “Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following.”
 - *2025.09*: &nbsp; Check out our recent work, “EZREAL: Enhancing Zero-Shot Outdoor Robot Navigation toward Distant Targets under Varying Visibility.”
 - *2025.07*: &nbsp; Check out our recent work, “LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR.”
 - *2025.01*: &nbsp; Exciting Update! This Fall I begin my PhD in Robotics at SUSTech, co-advised by two amazing mentors: [Professor Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Chair Professor Hong Zhang](https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en). 
@@ -41,6 +42,28 @@ Full publication list is available on [google scholar](https://scholar.google.co
 ---
 
 ## 👣 Robot Person Following 
+
+## 
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <video width="100%" autoplay loop muted playsinline>
+            <source src="files/adap_rpf.mp4" type="video/mp4">
+        </video>
+    </div>
+	<div class='paper-box-text' markdown="1">
+**[Adap-RPF: Adaptive Trajectory Sampling for Robot Person Following in Dynamic Crowded Environments](https://arxiv.org/abs/2510.11308)**
+
+
+
+Weixi Situ, Hanjing Ye, **<u>Jianwei Peng</u>**, Yu Zhan, Hong Zhang
+
+Under Review
+
+[[arXiv](https://arxiv.org/abs/2510.11308)]
+
+</div>
+</div>
 
 <div class='paper-box'>
     <div class='paper-box-image'>
