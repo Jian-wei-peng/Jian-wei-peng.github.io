@@ -43,7 +43,7 @@ Full publication list is available on [google scholar](https://scholar.google.co
 
 ## 👣 Robot Person Following 
 
-## 
+
 
 <div class='paper-box'>
     <div class='paper-box-image'>
