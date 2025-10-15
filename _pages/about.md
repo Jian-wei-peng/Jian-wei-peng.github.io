@@ -27,7 +27,7 @@ Previously, I served as a research and teaching assistant at the Shenzhen Key La
 
 
 # 🔥 News
-- *2025.10*: &nbsp; Check out our latest work, “Adap-RPF: Adaptive Trajectory Sampling for Robot Person Following in Dynamic Crowded Environments.”
+- *2025.10*: &nbsp; Check out our latest work, “Adap-RPF: Adaptive Trajectory Sampling for Robot Person Following in Dynamic Crowded Environments.” This work adopts an *sample-evaluate-plan* paradigm with a multiple-objective cost function design and a prediction-aware MPPI controller, enabling smooth and safe person following in dynamic crowded environments. Learn more on the [project website](https://adap-rpf.github.io/).
 - *2025.09*: &nbsp; Check out our recent work, “Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following.”
 - *2025.09*: &nbsp; Check out our recent work, “EZREAL: Enhancing Zero-Shot Outdoor Robot Navigation toward Distant Targets under Varying Visibility.”
 - *2025.07*: &nbsp; Check out our recent work, “LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR.”
@@ -60,7 +60,7 @@ Weixi Situ, Hanjing Ye, **<u>Jianwei Peng</u>**, Yu Zhan, Hong Zhang
 
 Under Review
 
-[[arXiv](https://arxiv.org/abs/2510.11308)]
+[[arXiv](https://arxiv.org/abs/2510.11308)] [[site](https://adap-rpf.github.io/)]
 
 </div>
 </div>
@@ -144,7 +144,7 @@ Tianle Zeng, **<u>Jianwei Peng</u>**, Hanjing Ye, Guangcheng Chen, Senzi Luo, Ho
 
 Under Review
 
-[[arXiv](https://arxiv.org/abs/2509.13720)] 
+[[arXiv](https://arxiv.org/abs/2509.13720)] [[site](https://tianlezeng.github.io/EzReal/)]
 
 </div>
 </div>
