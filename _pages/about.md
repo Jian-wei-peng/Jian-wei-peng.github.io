@@ -57,7 +57,7 @@ Full publication list is available on [google scholar](https://scholar.google.co
 
 
 
-Weixi Situ*, Hanjing Ye*, **<u>Jianwei Peng</u>**, Yu Zhan, Hong Zhang
+Weixi Situ\*, Hanjing Ye\*, **<u>Jianwei Peng</u>**, Yu Zhan, Hong Zhang
 
 2026 IEEE International Conference on Robotics and Automation (ICRA).
 
@@ -97,7 +97,7 @@ Under Review
 
 
 
-**<u>Jianwei Peng*</u>**, Zhelin Liao*, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai
+**<u>Jianwei Peng\*</u>**, Zhelin Liao\*, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai
 
 2024 IEEE International Conference on Robotics and Automation (ICRA).
 
