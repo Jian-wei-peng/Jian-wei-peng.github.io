@@ -27,11 +27,12 @@ Previously, I served as a research and teaching assistant at the Shenzhen Key La
 
 
 # 🔥 News
-- *2025.10*: &nbsp; Check out our latest work, “Adap-RPF: Adaptive Trajectory Sampling for Robot Person Following in Dynamic Crowded Environments.” This work adopts an *sample-evaluate-plan* paradigm with a multiple-objective cost function design and a prediction-aware MPPI controller, enabling smooth and safe person following in dynamic crowded environments. Learn more on the [project website](https://adap-rpf.github.io/).
+- *2026.01*: &nbsp; 🥳🥳 [Adap-RPF](https://adap-rpf.github.io/) and [EZREAL](https://tianlezeng.github.io/EzReal/) are accepted by ICRA 2026.
+- *2025.10*: &nbsp; Check out our latest work, “Adap-RPF: Adaptive Trajectory Sampling for Robot Person Following in Dynamic Crowded Environments.”
 - *2025.09*: &nbsp; Check out our recent work, “Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following.”
 - *2025.09*: &nbsp; Check out our recent work, “EZREAL: Enhancing Zero-Shot Outdoor Robot Navigation toward Distant Targets under Varying Visibility.”
 - *2025.07*: &nbsp; Check out our recent work, “LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR.”
-- *2025.01*: &nbsp; Exciting Update! This Fall I begin my PhD in Robotics at SUSTech, co-advised by two amazing mentors: [Professor Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Chair Professor Hong Zhang](https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en). 
+- *2025.01*: &nbsp; Exciting Update! This Fall I begin my PhD in Robotics at SUSTech, co-advised by two amazing mentors: [Professor Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Chair Professor Hong Zhang](https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en).
 - *2024.05*: &nbsp; Presenting our work at ICRA 2024 in Yokohama, Japan. My first oral presentation in my academic career 🎉
 - *2024.02*: &nbsp; One paper is accepted by ICRA 2024.
 
@@ -56,9 +57,9 @@ Full publication list is available on [google scholar](https://scholar.google.co
 
 
 
-Weixi Situ, Hanjing Ye, **<u>Jianwei Peng</u>**, Yu Zhan, Hong Zhang
+Weixi Situ*, Hanjing Ye*, **<u>Jianwei Peng</u>**, Yu Zhan, Hong Zhang
 
-Under Review
+2026 IEEE International Conference on Robotics and Automation (ICRA).
 
 [[arXiv](https://arxiv.org/abs/2510.11308)] [[site](https://adap-rpf.github.io/)]
 
@@ -96,9 +97,9 @@ Under Review
 
 
 
-**<u>Jianwei Peng</u>**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai
+**<u>Jianwei Peng*</u>**, Zhelin Liao*, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai
 
-2024 IEEE International Conference on Robotics and Automation (ICRA). 
+2024 IEEE International Conference on Robotics and Automation (ICRA).
 
 [[paper](http://Jian-wei-peng.github.io/files/icra2024.pdf)]
 
@@ -142,7 +143,7 @@ Under Review
 
 Tianle Zeng, **<u>Jianwei Peng</u>**, Hanjing Ye, Guangcheng Chen, Senzi Luo, Hong Zhang
 
-Under Review
+2026 IEEE International Conference on Robotics and Automation (ICRA). 
 
 [[arXiv](https://arxiv.org/abs/2509.13720)] [[site](https://tianlezeng.github.io/EzReal/)]
 
@@ -178,14 +179,15 @@ Under Review
 - *2020.09* &nbsp; **Grand Prize** in the Intelligent Robotics Competition of the 2020 Digital China Innovation Contest.
 - *2020.07* &nbsp; **Outstanding Graduates** of Huaqiao University Class of 2020.
 - *2018.11* &nbsp; **National Second Prize** of 2018 China University Student Mathematical Modelling Competition.
-- 2017~2019 &nbsp; **First-class Undergraduate Academic Scholarship** at Huaqiao University.
+- *2017~2019* &nbsp; **First-class Undergraduate Academic Scholarship** at Huaqiao University.
 
 # 💬 Academic Services
 - **Journal Reviewer:**
 
   - IEEE Robotics and Automation Letters (RAL)
-  - IEEE Transactions on Systems, Man, and Cybernetics
-  - Robotics and Autonomous Systems
+  - IEEE/ASME Transactions on Mechatronics (TMECH)
+  - IEEE Transactions on Systems, Man, and Cybernetics (TSMC)
+  - Robotics and Autonomous Systems (RAS)
 
 - ### Conference Reviewer:
 
@@ -204,7 +206,7 @@ Under Review
 - *2016.09 - 2020.06*, B.Eng. in Automation, Huaqiao University (Xiamen, China)
 
 # 💻 Work Experience
-- *2025.04 - 2025.08*,  Research and Teaching Assistant, Southern University of Science and Technology
+- *2025.04 - 2025.08*, Research and Teaching Assistant, Southern University of Science and Technology
 - *2023.07 - 2025.03*, Research Assistant, Quanzhou Institute of Equipment Manufacturing, CAS
 - *2019.10 - 2020.08*, Intern, Quanzhou Institute of Equipment Manufacturing, CAS
 
