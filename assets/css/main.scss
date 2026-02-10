@@ -87,6 +87,77 @@
 
 }
 
+/* 让每个论文卡片更有质感 */
+.paper-box {
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 12px; /* 圆角设计更现代 */
+    transition: all 0.3s ease; /* 增加平滑动画 */
+    background: transparent;
+}
+
+/* 鼠标悬停在卡片上时的效果 */
+.paper-box:hover {
+    background: #f8f9fa; /* 淡淡的背景色 */
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05); /* 增加微妙的阴影 */
+    transform: translateY(-2px); /* 轻微上浮 */
+}
+
+/* 视频和图片圆角 */
+.paper-box-image video, 
+.paper-box-image img {
+    border-radius: 8px;
+    border: 1px solid #eee; /* 浅灰色边框增加精致度 */
+}
+
+/* 基础按钮样式 */
+.paper-btn {
+    display: inline-flex;
+    align-items: center;
+    padding: 4px 12px;
+    margin: 4px 6px 4px 0;
+    border-radius: 6px; /* 稍微有一点点圆角 */
+    font-size: 0.85em;
+    font-weight: 500;
+    text-decoration: none !important;
+    transition: all 0.2s ease;
+    border: 1px solid #e1e4e8;
+    background-color: #fafbfc;
+    color: #24292e !important;
+}
+
+/* 鼠标悬停通用效果 */
+.paper-btn:hover {
+    transform: translateY(-1px);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+/* arXiv 红色系 */
+.btn-arxiv:hover {
+    background-color: #b31b1b;
+    color: white !important;
+    border-color: #b31b1b;
+}
+
+/* Code/GitHub 黑色系 */
+.btn-code:hover {
+    background-color: #24292e;
+    color: white !important;
+    border-color: #24292e;
+}
+
+/* Project Site 蓝色系 */
+.btn-site:hover {
+    background-color: #0366d6;
+    color: white !important;
+    border-color: #0366d6;
+}
+
+/* 图标间距 */
+.paper-btn i {
+    margin-right: 6px;
+}
+
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
     content: ''; 
