@@ -51,6 +51,46 @@ Full publication list is available on [google scholar](https://scholar.google.co
 
 
 <!-- ral_yao -->
+
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <video width="100%" autoplay loop muted playsinline>
+            <source src="files/adap_rpf.mp4" type="video/mp4">
+        </video>
+    </div>
+	<div class='paper-box-text' markdown="1">
+**[Adap-RPF: Adaptive Trajectory Sampling for Robot Person Following in Dynamic Crowded Environments](https://arxiv.org/abs/2510.11308)**
+
+Weixi Situ*, Hanjing Ye*, **<u>Jianwei Peng</u>**, Yu Zhan, Hong Zhang
+
+2026 IEEE International Conference on Robotics and Automation (ICRA).
+
+[[arXiv](https://arxiv.org/abs/2510.11308)] [[site](https://adap-rpf.github.io/)]
+</div>
+</div>
+
+
+
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <video width="100%" autoplay loop muted playsinline>
+            <source src="files/follow_bench.mp4" type="video/mp4">
+        </video>
+    </div>
+	<div class='paper-box-text' markdown="1">
+**[Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following](https://arxiv.org/abs/2509.10796)**
+
+Hanjing Ye, Weixi Situ, **<u>Jianwei Peng</u>**, Yu Zhan, Bingyi Xia, Kuanqi Cai, Hong Zhang
+
+Under Review
+
+[[arXiv](https://arxiv.org/abs/2509.10796)] [[site](https://follow-bench.github.io/)]
+
+</div>
+</div>
+
+
 <div class='paper-box'>
     <div class='paper-box-image'>
         <video style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block;" autoplay loop muted playsinline>
