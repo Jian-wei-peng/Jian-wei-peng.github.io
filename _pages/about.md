@@ -27,7 +27,8 @@ Previously, I served as a research and teaching assistant at the Shenzhen Key La
 
 
 # 🔥 News
-- *2026.01*: &nbsp; 🥳🥳 [Adap-RPF](https://adap-rpf.github.io/) and [EZREAL](https://tianlezeng.github.io/EzReal/) are accepted by ICRA 2026.
+- *2026.02*: &nbsp; 🥳🥳 One paper is accepted by RAL.
+- *2026.01*: &nbsp; [Adap-RPF](https://adap-rpf.github.io/) and [EZREAL](https://tianlezeng.github.io/EzReal/) are accepted by ICRA 2026.
 - *2025.10*: &nbsp; Check out our latest work, “Adap-RPF: Adaptive Trajectory Sampling for Robot Person Following in Dynamic Crowded Environments.”
 - *2025.09*: &nbsp; Check out our recent work, “Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following.”
 - *2025.09*: &nbsp; Check out our recent work, “EZREAL: Enhancing Zero-Shot Outdoor Robot Navigation toward Distant Targets under Varying Visibility.”
@@ -45,6 +46,23 @@ Full publication list is available on [google scholar](https://scholar.google.co
 ## 👣 Robot Person Following 
 
 
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <video width="100%" autoplay loop muted playsinline>
+            <source src="files/ral_yao.mp4" type="video/mp4">
+        </video>
+    </div>
+	<div class='paper-box-text' markdown="1">
+**A Shopping Service Robot Framework with Visual-WEM Tracking and Intersection-Aware Following**
+
+Hanchen Yao, **<u>Jianwei Peng</u>**, Houde Dai, Fanbiao Li, Tim C Lueth
+
+2026 IEEE Robotics and Automation Letters (RAL).
+
+</div>
+</div>
+
+
 
 <div class='paper-box'>
     <div class='paper-box-image'>
@@ -54,8 +72,6 @@ Full publication list is available on [google scholar](https://scholar.google.co
     </div>
 	<div class='paper-box-text' markdown="1">
 **[Adap-RPF: Adaptive Trajectory Sampling for Robot Person Following in Dynamic Crowded Environments](https://arxiv.org/abs/2510.11308)**
-
-
 
 Weixi Situ, Hanjing Ye, **<u>Jianwei Peng</u>**, Yu Zhan, Hong Zhang
 
@@ -74,7 +90,6 @@ Weixi Situ, Hanjing Ye, **<u>Jianwei Peng</u>**, Yu Zhan, Hong Zhang
     </div>
 	<div class='paper-box-text' markdown="1">
 **[Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following](https://arxiv.org/abs/2509.10796)**
-
 
 Hanjing Ye, Weixi Situ, **<u>Jianwei Peng</u>**, Yu Zhan, Bingyi Xia, Kuanqi Cai, Hong Zhang
 
@@ -95,8 +110,6 @@ Under Review
 **[A Dual Closed-Loop Control Strategy for Human-Following Robots Respecting Social Space](https://ieeexplore.ieee.org/abstract/document/10611263)**
 
 
-
-
 **<u>Jianwei Peng</u>**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai
 
 2024 IEEE International Conference on Robotics and Automation (ICRA).
@@ -114,8 +127,6 @@ Under Review
     </div>
     <div class='paper-box-text' markdown="1">
 **[MPC-Based Human-Accompanying Control Strategy for Improving the Motion Coordination Between the Target Person and the Robot](https://ieeexplore.ieee.org/abstract/document/10342246)**
-
-
 
 
 **<u>Jianwei Peng</u>**, Zhelin Liao, Hanchen Yao, Zefan Su, Yadan Zeng, and Houde Dai
