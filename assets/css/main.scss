@@ -40,166 +40,52 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-// .paper-box {
-//     display: flex;
-//     justify-content: left;
-//     align-items: center;
-//     flex-direction: row;
-//     flex-wrap: wrap;
-//     border-bottom: 1px #efefef solid;
-//     padding: 2em 0 2em 0;
-    
-
-//     .paper-box-image{
-//         justify-content: center;
-//         display: flex;
-//         width: 100%;
-//         order: 2;
-//         img {
-//             max-width: 400px;
-//             box-shadow: 3px 3px 6px #888;
-//             object-fit: cover;
-//         }
-//     }
-    
-//     .paper-box-text{
-//         max-width: 100%;
-//         order: 1;
-//     }
-    
-//     @include breakpoint($medium) {
-//         .paper-box-image{
-//             justify-content: left;
-//             min-width: 200px;
-//             max-width: 40%;
-//             order: 1;
-//         }
-        
-//         .paper-box-text{
-//             justify-content: left;
-//             padding-left: 2em;
-//             max-width: 60%;
-//             order: 2;
-//         }
-
-//     }
-
-
-// }
-
-/* ==========================================================================
-   Custom Research Paper Box Styles
-   ========================================================================== */
-
 .paper-box {
     display: flex;
-    flex-direction: column; // 默认：手机端显示为上下堆叠
-    margin-top: 20px;
-    margin-bottom: 20px;
-    padding: 15px;
-    border-radius: 12px;
-    border-bottom: 1px #efefef solid;
-    transition: all 0.3s ease;
-    background: transparent;
-
-    // 鼠标悬停整体卡片的质感
-    &:hover {
-        background: #f8f9fa;
-        box-shadow: 0 4px 15px rgba(0,0,0,0.05);
-        transform: translateY(-2px);
-    }
-
-    .paper-box-image {
-        width: 100%; // 手机端宽度占满
-        margin-bottom: 15px;
-        display: flex;
-        justify-content: center;
-
-        video, img {
-            width: 100%;
-            aspect-ratio: 16 / 9; // 核心：强制所有视频和图片 16:9
-            object-fit: cover;    // 核心：多余部分自动裁剪，不拉伸
-            border-radius: 8px;
-            box-shadow: 2px 2px 8px rgba(0,0,0,0.1);
-            border: 1px solid #eee;
-        }
-    }
-
-    .paper-box-text {
-        width: 100%;
-        line-height: 1.5;
-    }
-
-    // 桌面端布局：中等屏幕以上变为左右排列
-    @include breakpoint($medium) {
-        flex-direction: row; 
-        align-items: flex-start;
-
-        .paper-box-image {
-            width: 30%;       // 视频占左侧 30%
-            min-width: 220px;
-            max-width: 400px;
-            margin-bottom: 0;
-            flex-shrink: 0;
-        }
-
-        .paper-box-text {
-            width: 70%;
-            padding-left: 2em; // 文字距离视频的间距
-        }
-    }
-}
-
-/* ==========================================================================
-   Academic Badges / Buttons (arXiv, Code, Site)
-   ========================================================================== */
-
-.paper-btn {
-    display: inline-flex;
+    justify-content: left;
     align-items: center;
-    padding: 4px 12px;
-    margin: 4px 6px 4px 0;
-    border-radius: 6px;
-    font-size: 0.85em;
-    font-weight: 500;
-    text-decoration: none !important;
-    transition: all 0.2s ease;
-    border: 1px solid #e1e4e8;
-    background-color: #fafbfc;
-    color: #24292e !important;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-bottom: 1px #efefef solid;
+    padding: 2em 0 2em 0;
+    
 
-    &:hover {
-        transform: translateY(-1px);
-        box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    .paper-box-image{
+        justify-content: center;
+        display: flex;
+        width: 100%;
+        order: 2;
+        img {
+            max-width: 400px;
+            box-shadow: 3px 3px 6px #888;
+            object-fit: cover;
+        }
+    }
+    
+    .paper-box-text{
+        max-width: 100%;
+        order: 1;
+    }
+    
+    @include breakpoint($medium) {
+        .paper-box-image{
+            justify-content: left;
+            min-width: 200px;
+            max-width: 40%;
+            order: 1;
+        }
+        
+        .paper-box-text{
+            justify-content: left;
+            padding-left: 2em;
+            max-width: 60%;
+            order: 2;
+        }
+
     }
 
-    i {
-        margin-right: 6px; // 图标和文字的间距
-    }
 
-    // 各类按钮的悬停颜色
-    &.btn-arxiv:hover {
-        background-color: #b31b1b;
-        color: white !important;
-        border-color: #b31b1b;
-    }
-
-    &.btn-code:hover {
-        background-color: #24292e;
-        color: white !important;
-        border-color: #24292e;
-    }
-
-    &.btn-site:hover {
-        background-color: #0366d6;
-        color: white !important;
-        border-color: #0366d6;
-    }
 }
-
-/* ==========================================================================
-   Other Helpers
-   ========================================================================== */
 
 $scroll_offset : 2em;
 h1:before, .anchor:before { 
@@ -221,24 +107,3 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
-
-// $scroll_offset : 2em;
-// h1:before, .anchor:before { 
-//     content: ''; 
-//     display: block; 
-//     position: relative; 
-//     width: 0; 
-//     height: $scroll_offset; 
-//     margin-top: -$scroll_offset;
-// }
-
-// .badge {
-//     padding-left: 1rem;
-//     padding-right: 1rem;
-//     position: absolute;
-//     margin-top: .5em;
-//     margin-left: -.5em;
-//     color: white;
-//     background-color: #00369f;
-//     font-size: .8em;
-// }

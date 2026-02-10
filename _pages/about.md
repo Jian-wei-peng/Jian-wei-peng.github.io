@@ -52,151 +52,114 @@ Full publication list is available on [google scholar](https://scholar.google.co
 <!-- ral_yao -->
 <div class='paper-box'>
     <div class='paper-box-image'>
-        <video autoplay loop muted playsinline preload="metadata">
+        <video style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block;" autoplay loop muted playsinline>
             <source src="files/ral_yao.mp4" type="video/mp4">
         </video>
     </div>
     <div class='paper-box-text' markdown="1">
-
-<strong style="font-size: 1.1em;">A Shopping Service Robot Framework with Visual-WEM Tracking and Intersection-Aware Following</strong>
-
-Hanchen Yao, **<u>Jianwei Peng</u>**, Houde Dai, Fanbiao Li, Tim C Lueth
-
-2026 IEEE Robotics and Automation Letters (RAL)
+        <strong style="font-size: 1.1em;">A Shopping Service Robot Framework with Visual-WEM Tracking and Intersection-Aware Following</strong>
+        Hanchen Yao, **<u>Jianwei Peng</u>**, Houde Dai, Fanbiao Li, Tim C Lueth
+        2026 IEEE Robotics and Automation Letters (RAL)
     </div>
 </div>
-
 
 <!-- adap_rpf -->
 <div class='paper-box'>
     <div class='paper-box-image'>
         <a href="https://adap-rpf.github.io/">
-            <video autoplay loop muted playsinline preload="metadata" loading="lazy">
+            <video style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block;" autoplay loop muted playsinline>
                 <source src="files/adap_rpf.mp4" type="video/mp4">
+                Your browser does not support the video tag.
             </video>
         </a>
     </div>
     <div class='paper-box-text' markdown="1">
-
-<strong style="font-size: 1.1em;">Adap-RPF: Adaptive Trajectory Sampling for Robot Person Following in Dynamic Crowded Environments</strong>
-
-Weixi Situ, Hanjing Ye, **<u>Jianwei Peng</u>**, Yu Zhan, Hong Zhang
-
-2026 IEEE International Conference on Robotics and Automation (ICRA)
-
-<a href="https://arxiv.org/abs/2510.11308" class="paper-btn btn-arxiv"><i class="far fa-file-pdf"></i> arXiv</a>
-<a href="https://adap-rpf.github.io/" class="paper-btn btn-site"><i class="fas fa-globe"></i> Project Site</a>
+        <strong style="font-size: 1.1em;">Adap-RPF: Adaptive Trajectory Sampling for Robot Person Following in Dynamic Crowded Environments</strong>
+        Weixi Situ, Hanjing Ye, **<u>Jianwei Peng</u>**, Yu Zhan, Hong Zhang
+        2026 IEEE International Conference on Robotics and Automation (ICRA)
+        [[arXiv](https://arxiv.org/abs/2510.11308)] [[site](https://adap-rpf.github.io/)]
     </div>
 </div>
 
-
-<!-- follow bench -->
+<!-- follow_bench -->
 <div class='paper-box'>
     <div class='paper-box-image'>
         <a href="https://follow-bench.github.io/">
-            <video autoplay loop muted playsinline preload="metadata" loading="lazy">
+            <video style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block;" autoplay loop muted playsinline>
                 <source src="files/follow_bench.mp4" type="video/mp4">
+                Your browser does not support the video tag.
             </video>
         </a>
     </div>
     <div class='paper-box-text' markdown="1">
-
-<strong style="font-size: 1.1em;">Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following</strong>
-
-Hanjing Ye, Weixi Situ, **<u>Jianwei Peng</u>**, Yu Zhan, Bingyi Xia, Kuanqi Cai, Hong Zhang
-
-Under Review
-
-<a href="https://arxiv.org/abs/2509.10796" class="paper-btn btn-arxiv"><i class="far fa-file-pdf"></i> arXiv</a>
-<a href="https://follow-bench.github.io/" class="paper-btn btn-site"><i class="fas fa-globe"></i> Project Site</a>
+        <strong style="font-size: 1.1em;">Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following</strong>
+        Hanjing Ye, Weixi Situ, **<u>Jianwei Peng</u>**, Yu Zhan, Bingyi Xia, Kuanqi Cai, Hong Zhang
+        Under Review
+        [[arXiv](https://arxiv.org/abs/2509.10796)] [[site](https://follow-bench.github.io/)]
     </div>
 </div>
 
-
-<!-- icra 2024 -->
+<!-- ICRA24 -->
 <div class='paper-box'>
     <div class='paper-box-image'>
-        <video autoplay loop muted playsinline preload="metadata" loading="lazy">
+        <video style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block;" autoplay loop muted playsinline>
             <source src="files/ICRA24.mp4" type="video/mp4">
         </video>
     </div>
     <div class='paper-box-text' markdown="1">
-
-<strong style="font-size: 1.1em;">A Dual Closed-Loop Control Strategy for Human-Following Robots Respecting Social Space</strong>
-
-**<u>Jianwei Peng</u>**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai
-
-2024 IEEE International Conference on Robotics and Automation (ICRA)
-
-<a href="http://Jian-wei-peng.github.io/files/icra2024.pdf" class="paper-btn btn-site"><i class="fas fa-file-lines"></i> Paper</a>
-<a href="https://ieeexplore.ieee.org/abstract/document/10611263" class="paper-btn btn-site"><i class="fas fa-link"></i> DOI</a>
+        <strong style="font-size: 1.1em;">A Dual Closed-Loop Control Strategy for Human-Following Robots Respecting Social Space</strong>
+        **<u>Jianwei Peng</u>**, Zhelin Liao, Zefan Su, Hanchen Yao, Yadan Zeng, and Houde Dai
+        2024 IEEE International Conference on Robotics and Automation (ICRA)
+        [[paper](http://Jian-wei-peng.github.io/files/icra2024.pdf)] [[doi](https://ieeexplore.ieee.org/abstract/document/10611263)]
     </div>
 </div>
 
-
-<!-- iros 2023 -->
+<!-- IROS23 -->
 <div class='paper-box'>
     <div class='paper-box-image'>
-        <video autoplay loop muted playsinline preload="metadata" loading="lazy">
+        <video style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block;" autoplay loop muted playsinline>
             <source src="files/IROS23.mp4" type="video/mp4">
         </video>
     </div>
     <div class='paper-box-text' markdown="1">
-
-<strong style="font-size: 1.1em;">MPC-Based Human-Accompanying Control Strategy for Improving the Motion Coordination Between the Target Person and the Robot</strong>
-
-**<u>Jianwei Peng</u>**, Zhelin Liao, Hanchen Yao, Zefan Su, Yadan Zeng, and Houde Dai
-
-2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-
-<a href="http://Jian-wei-peng.github.io/files/iros2023.pdf" class="paper-btn btn-site"><i class="fas fa-file-lines"></i> Paper</a>
-<a href="https://ieeexplore.ieee.org/abstract/document/10342246" class="paper-btn btn-site"><i class="fas fa-link"></i> DOI</a>
+        <strong style="font-size: 1.1em;">MPC-Based Human-Accompanying Control Strategy for Improving the Motion Coordination Between the Target Person and the Robot</strong>
+        **<u>Jianwei Peng</u>**, Zhelin Liao, Hanchen Yao, Zefan Su, Yadan Zeng, and Houde Dai
+        2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
+        [[paper](http://Jian-wei-peng.github.io/files/iros2023.pdf)] [[doi](https://ieeexplore.ieee.org/abstract/document/10342246)]
     </div>
 </div>
 
 
 ## 🧭 Navigation
 
-<!-- ezreal -->
 <div class='paper-box'>
     <div class='paper-box-image'>
         <a href="https://tianlezeng.github.io/EzReal/">
-            <video autoplay loop muted playsinline preload="metadata" loading="lazy">
+            <video style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block;" autoplay loop muted playsinline>
                 <source src="files/ezreal.mp4" type="video/mp4">
+                Your browser does not support the video tag.
             </video>
         </a>
     </div>
     <div class='paper-box-text' markdown="1">
-
-<strong style="font-size: 1.1em;">EZREAL: Enhancing Zero-Shot Outdoor Robot Navigation toward Distant Targets under Varying Visibility</strong>
-
-Tianle Zeng, **<u>Jianwei Peng</u>**, Hanjing Ye, Guangcheng Chen, Senzi Luo, Hong Zhang
-
-2026 IEEE International Conference on Robotics and Automation (ICRA)
-
-<a href="https://arxiv.org/abs/2509.13720" class="paper-btn btn-arxiv"><i class="far fa-file-pdf"></i> arXiv</a>
-<a href="https://tianlezeng.github.io/EzReal/" class="paper-btn btn-site"><i class="fas fa-globe"></i> Project Site</a>
+        <strong style="font-size: 1.1em;">EZREAL: Enhancing Zero-Shot Outdoor Robot Navigation toward Distant Targets under Varying Visibility</strong>
+        Tianle Zeng, **<u>Jianwei Peng</u>**, Hanjing Ye, Guangcheng Chen, Senzi Luo, Hong Zhang
+        2026 IEEE International Conference on Robotics and Automation (ICRA)
+        [[arXiv](https://arxiv.org/abs/2509.13720)] [[site](https://tianlezeng.github.io/EzReal/)]
     </div>
 </div>
 
-
-<!-- lstp-nav -->
 <div class='paper-box'>
     <div class='paper-box-image'>
         <a href="https://sites.google.com/view/xingrong2024efficient">
-            <img src='files/LSTP.gif' alt="sym" loading="lazy">
+            <img src='files/LSTP.gif' alt="sym" style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block;">
         </a>
     </div>
     <div class='paper-box-text' markdown="1">
-
-<strong style="font-size: 1.1em;">LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR</strong>
-
-Xingrong Diao, Zhirui Sun, **<u>Jianwei Peng</u>**, Jiankun Wang
-
-Under Review
-
-<a href="https://arxiv.org/abs/2408.16370" class="paper-btn btn-arxiv"><i class="far fa-file-pdf"></i> arXiv</a>
-<a href="https://sites.google.com/view/xingrong2024efficient" class="paper-btn btn-site"><i class="fas fa-globe"></i> Project Site</a>
+        <strong style="font-size: 1.1em;">EZREAL: Enhancing Zero-Shot Outdoor Robot Navigation toward Distant Targets under Varying Visibility</strong>
+        Xingrong Diao, Zhirui Sun, **<u>Jianwei Peng</u>**, Jiankun Wang
+        Under Review
+        [[arXiv](https://arxiv.org/abs/2408.16370)] [[site](https://sites.google.com/view/xingrong2024efficient)]
     </div>
 </div>
 
