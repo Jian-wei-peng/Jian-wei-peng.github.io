@@ -49,6 +49,7 @@ Full publication list is available on [google scholar](https://scholar.google.co
 
 ## 👣 Robot Person Following 
 
+
 <!-- ral_yao -->
 <div class='paper-box'>
     <div class='paper-box-image'>
@@ -56,7 +57,7 @@ Full publication list is available on [google scholar](https://scholar.google.co
             <source src="files/ral_yao.mp4" type="video/mp4">
         </video>
     </div>
-    <div class='paper-box-text' markdown="1">
+	<div class='paper-box-text' markdown="1">
         <strong style="font-size: 1.1em;">A Shopping Service Robot Framework with Visual-WEM Tracking and Intersection-Aware Following</strong>
         Hanchen Yao, **<u>Jianwei Peng</u>**, Houde Dai, Fanbiao Li, Tim C Lueth
         2026 IEEE Robotics and Automation Letters (RAL)
@@ -80,6 +81,8 @@ Full publication list is available on [google scholar](https://scholar.google.co
         [[arXiv](https://arxiv.org/abs/2510.11308)] [[site](https://adap-rpf.github.io/)]
     </div>
 </div>
+
+
 
 <!-- follow_bench -->
 <div class='paper-box'>
