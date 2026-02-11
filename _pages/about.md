@@ -60,9 +60,11 @@ Full publication list is available on [google scholar](https://scholar.google.co
 	<div class='paper-box-text' markdown="1">
 **A Shopping Service Robot Framework with Visual-WEM Tracking and Intersection-Aware Following**
 
-Hanchen Yao, **<u>Jianwei Peng</u>**, Houde Dai, Fanbiao Li, Tim C Lueth
+Hanchen Yao, **<u>Jianwei Peng</u>**, Houde Dai, Fanbiao Li, Tim C. Lueth
 
 2026 IEEE Robotics and Automation Letters (RAL)
+
+[[paper](http://Jian-wei-peng.github.io/files/ral_yao.pdf)]
 
 </div>
 </div>
@@ -169,12 +171,14 @@ Tianle Zeng, **<u>Jianwei Peng</u>**, Hanjing Ye, Guangcheng Chen, Senzi Luo, Ho
 <!-- LSTP -->
 <div class='paper-box'>
     <div class='paper-box-image'>
-        <img src='files/LSTP.gif' alt="sym" style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block;">
+        <video style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block;" autoplay loop muted playsinline>
+            <source src="files/lstp.mp4" type="video/mp4">
+        </video>
     </div>
 	<div class='paper-box-text' markdown="1">
 **LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR**
 
-Xingrong Diao, Zhirui Sun, **<u>Jianwei Peng</u>**, Jiankun Wang
+Xingrong Diao, Zhirui Sun, **<u>Jianwei Peng</u>**, Bike Zhu, Jiankun Wang
 
 Under Review
 
