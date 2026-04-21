@@ -64,7 +64,7 @@ Hanchen Yao, **<u>Jianwei Peng</u>**, Houde Dai, Fanbiao Li, Tim C. Lueth
 
 2026 IEEE Robotics and Automation Letters (RAL)
 
-[[paper](http://Jian-wei-peng.github.io/files/ral_yao.pdf)]
+[[paper](http://Jian-wei-peng.github.io/files/ral_yao.pdf)] [[doi](https://ieeexplore.ieee.org/document/11410119)]
 
 </div>
 </div>
@@ -210,8 +210,7 @@ Under Review
 
   - IEEE Robotics and Automation Letters (RAL)
   - IEEE/ASME Transactions on Mechatronics (TMECH)
-  - IEEE Transactions on Systems, Man, and Cybernetics (TSMC)
-  - Robotics and Autonomous Systems (RAS)
+  - IEEE Transactions on Automation Science and Engineering (TASE)
 
 - ### Conference Reviewer:
 
@@ -220,7 +219,6 @@ Under Review
   - IEEE International Conference on Robotics and Biomimetics (ROBIO)
   - IEEE International Conference on Information Automation (ICIA)
   - International Conference on Biomimetic Intelligence and Robotics (ICBIR)
-  - China Automation Conference (CAC)
 
 
 # 📖 Educations
