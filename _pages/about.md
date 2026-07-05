@@ -28,13 +28,15 @@ Previously, I served as a research and teaching assistant at the Shenzhen Key La
 
 # 🔥 News
 
-- *2026.02*: &nbsp; 🥳🥳 One paper is accepted by RAL.
+- *2026.07*: &nbsp; [LSTP-Nav](https://sites.google.com/view/xingrong2024efficient) is accepted by TASE.
+- *2026.06*: &nbsp; [Follow-Bench](https://sites.google.com/view/xingrong2024efficient) is accepted by TASE.
+- *2026.05*: &nbsp; [TARIC](https://ieeexplore.ieee.org/document/11578332) is accepted by RAL.
+- *2026.02*: &nbsp; One paper is accepted by RAL.
 - *2026.01*: &nbsp; [Adap-RPF](https://adap-rpf.github.io/) and [EZREAL](https://tianlezeng.github.io/EzReal/) are accepted by ICRA 2026.
 - *2025.10*: &nbsp; Check out our latest work, “Adap-RPF: Adaptive Trajectory Sampling for Robot Person Following in Dynamic Crowded Environments.”
 - *2025.09*: &nbsp; Check out our recent work, “Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following.”
 - *2025.09*: &nbsp; Check out our recent work, “EZREAL: Enhancing Zero-Shot Outdoor Robot Navigation toward Distant Targets under Varying Visibility.”
 - *2025.07*: &nbsp; Check out our recent work, “LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR.”
-- *2025.01*: &nbsp; Exciting Update! This Fall I begin my PhD in Robotics at SUSTech, co-advised by two amazing mentors: [Professor Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Chair Professor Hong Zhang](https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en).
 - *2024.05*: &nbsp; Presenting our work at ICRA 2024 in Yokohama, Japan. My first oral presentation in my academic career 🎉
 - *2024.02*: &nbsp; One paper is accepted by ICRA 2024.
 - *2023.08*: &nbsp; One paper is accepted by CAC 2023.
@@ -62,7 +64,7 @@ Full publication list is available on [google scholar](https://scholar.google.co
 
 Hanchen Yao, **<u>Jianwei Peng</u>**, Houde Dai, Fanbiao Li, Tim C. Lueth
 
-2026 IEEE Robotics and Automation Letters (RAL)
+IEEE Robotics and Automation Letters (RAL)
 
 [[paper](http://Jian-wei-peng.github.io/files/ral_yao.pdf)] [[doi](https://ieeexplore.ieee.org/document/11410119)]
 
@@ -100,7 +102,7 @@ Weixi Situ, Hanjing Ye, **<u>Jianwei Peng</u>**, Yu Zhan, Hong Zhang
 
 Hanjing Ye, Weixi Situ, **<u>Jianwei Peng</u>**, Yu Zhan, Bingyi Xia, Kuanqi Cai, Hong Zhang
 
-Under Review
+IEEE Transactions on Automation Science and Engineering (TASE)
 
 [[arXiv](https://arxiv.org/abs/2509.10796)] [[site](https://follow-bench.github.io/)]
 
@@ -149,6 +151,22 @@ Under Review
 
 ## 🧭 Navigation
 
+<!-- taric -->
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <video style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block;" autoplay loop muted playsinline>
+            <source src="files/TARIC.mp4" type="video/mp4">
+        </video>
+    </div>
+	<div class='paper-box-text' markdown="1">
+**TARIC: Memory-Augmented Traversability-Aware Outdoor VLN under Interrupted Semantic Cues**
+
+Tianle Zeng, Hanjing Ye, **<u>Jianwei Peng</u>**, Jingwen Yu, Hanxuan Chen, Hong Zhang
+
+IEEE Robotics and Automation Letters (RAL)
+
+[[doi](https://ieeexplore.ieee.org/document/11578332)] [[视觉语言导航](https://mp.weixin.qq.com/s/eYAJVoAt0VqKozh6IZcA9Q)]
+
 <!-- ezreal -->
 <div class='paper-box'>
     <div class='paper-box-image'>
@@ -163,7 +181,7 @@ Tianle Zeng, **<u>Jianwei Peng</u>**, Hanjing Ye, Guangcheng Chen, Senzi Luo, Ho
 
 2026 IEEE International Conference on Robotics and Automation (ICRA)
 
-[[arXiv](https://arxiv.org/abs/2509.13720)] [[site](https://tianlezeng.github.io/EzReal/)]
+[[arXiv](https://arxiv.org/abs/2509.13720)] [[site](https://tianlezeng.github.io/EzReal/)] [[深蓝学院](https://mp.weixin.qq.com/s/KR8Gory9DEhkFB4GDgwmjA)]
 
 </div>
 </div>
@@ -180,7 +198,7 @@ Tianle Zeng, **<u>Jianwei Peng</u>**, Hanjing Ye, Guangcheng Chen, Senzi Luo, Ho
 
 Xingrong Diao, Zhirui Sun, **<u>Jianwei Peng</u>**, Bike Zhu, Jiankun Wang
 
-Under Review
+IEEE Transactions on Automation Science and Engineering (TASE)
 
 [[arXiv](https://arxiv.org/abs/2408.16370)] [[site](https://sites.google.com/view/xingrong2024efficient)]
 
