@@ -28,9 +28,8 @@ Previously, I served as a research and teaching assistant at the Shenzhen Key La
 
 # 🔥 News
 
-- *2026.07*: &nbsp; [LSTP-Nav](https://sites.google.com/view/xingrong2024efficient) is accepted by TASE.
-- *2026.06*: &nbsp; [Follow-Bench](https://sites.google.com/view/xingrong2024efficient) is accepted by TASE.
-- *2026.05*: &nbsp; [TARIC](https://ieeexplore.ieee.org/document/11578332) is accepted by RAL.
+- *2026.07*: &nbsp; [Follow-Bench](https://sites.google.com/view/xingrong2024efficient) and [LSTP-Nav](https://sites.google.com/view/xingrong2024efficient) are accepted by TASE.
+- *2026.06*: &nbsp; [TARIC](https://ieeexplore.ieee.org/document/11578332) is accepted by RAL.
 - *2026.02*: &nbsp; One paper is accepted by RAL.
 - *2026.01*: &nbsp; [Adap-RPF](https://adap-rpf.github.io/) and [EZREAL](https://tianlezeng.github.io/EzReal/) are accepted by ICRA 2026.
 - *2025.10*: &nbsp; Check out our latest work, “Adap-RPF: Adaptive Trajectory Sampling for Robot Person Following in Dynamic Crowded Environments.”
