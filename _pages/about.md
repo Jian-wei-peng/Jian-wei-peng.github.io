@@ -167,6 +167,9 @@ IEEE Robotics and Automation Letters (RAL)
 
 [[doi](https://ieeexplore.ieee.org/document/11578332)] [[视觉语言导航](https://mp.weixin.qq.com/s/eYAJVoAt0VqKozh6IZcA9Q)]
 
+</div>
+</div>
+
 <!-- ezreal -->
 <div class='paper-box'>
     <div class='paper-box-image'>
