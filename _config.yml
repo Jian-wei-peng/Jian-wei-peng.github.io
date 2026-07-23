@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jianwei Peng"
-description              : "Working on Robot Person Following"
+description              : "Robotics Researcher"
 repository               : "Jian-wei-peng/Jian-wei-peng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -28,7 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ZLUN4K0AAAAJ"
-  email            : "pengjianwei20@mails.ucas.ac.cn"
+  email            : "jianwei_peng@126.com"
   researchgate     : "https://www.researchgate.net/profile/Jianwei-Peng-7"
   uri              :
   bitbucket        :
@@ -43,19 +43,19 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # "https://www.linkedin.com/in/%E5%BB%BA%E4%BC%9F-%E5%BD%AD-b3922630a/"
+  linkedin         : 
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0000-3111-4754"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
   twitter          : 
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/@jianweipeng1737"
+  youtube          : 
 
 
 # Reading Files
