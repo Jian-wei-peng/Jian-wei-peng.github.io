@@ -28,7 +28,7 @@ Previously, I served as a research and teaching assistant at the Shenzhen Key La
 
 # 🔥 News
 
-- *2026.07*: &nbsp; [Follow-Bench](https://follow-bench.github.io/) and [LSTP-Nav](https://sites.google.com/view/xingrong2024efficient) are accepted by TASE.
+- *2026.08*: &nbsp; [LSTP-Nav](https://sites.google.com/view/xingrong2024efficient) is accepted by TASE.
 - *2026.06*: &nbsp; [TARIC](https://ieeexplore.ieee.org/document/11578332) is accepted by RAL.
 - *2026.02*: &nbsp; One paper is accepted by RAL.
 - *2026.01*: &nbsp; [Adap-RPF](https://adap-rpf.github.io/) and [EZREAL](https://tianlezeng.github.io/EzReal/) are accepted by ICRA 2026.
@@ -84,7 +84,7 @@ Weixi Situ, Hanjing Ye, **<u>Jianwei Peng</u>**, Yu Zhan, Hong Zhang
 
 2026 IEEE International Conference on Robotics and Automation (ICRA)
 
-[[arXiv](https://arxiv.org/abs/2510.11308)] [[site](https://adap-rpf.github.io/)]
+[[arXiv](https://arxiv.org/abs/2510.11308)] [[site](https://adap-rpf.github.io/)] [[github](https://github.com/MedlarTea/follow-bench)]
 
 </div>
 </div>
@@ -103,7 +103,7 @@ Hanjing Ye, Weixi Situ, **<u>Jianwei Peng</u>**, Yu Zhan, Bingyi Xia, Kuanqi Cai
 
 IEEE Transactions on Automation Science and Engineering (TASE)
 
-[[arXiv](https://arxiv.org/abs/2509.10796)] [[site](https://follow-bench.github.io/)]
+[[arXiv](https://arxiv.org/abs/2509.10796)] [[site](https://follow-bench.github.io/)] [[github](https://github.com/MedlarTea/follow-bench)]
 
 </div>
 </div>
@@ -183,7 +183,7 @@ Tianle Zeng, **<u>Jianwei Peng</u>**, Hanjing Ye, Guangcheng Chen, Senzi Luo, Ho
 
 2026 IEEE International Conference on Robotics and Automation (ICRA)
 
-[[arXiv](https://arxiv.org/abs/2509.13720)] [[site](https://tianlezeng.github.io/EzReal/)] [[深蓝学院](https://mp.weixin.qq.com/s/KR8Gory9DEhkFB4GDgwmjA)]
+[[arXiv](https://arxiv.org/abs/2509.13720)] [[site](https://tianlezeng.github.io/EzReal/)] [[github](https://github.com/louiszengCN/EzReal)] [[深蓝学院](https://mp.weixin.qq.com/s/KR8Gory9DEhkFB4GDgwmjA)]
 
 </div>
 </div>
@@ -202,7 +202,7 @@ Xingrong Diao, Zhirui Sun, **<u>Jianwei Peng</u>**, Bike Zhu, Jiankun Wang
 
 IEEE Transactions on Automation Science and Engineering (TASE)
 
-[[arXiv](https://arxiv.org/abs/2408.16370)] [[site](https://sites.google.com/view/xingrong2024efficient)]
+[[doi](https://ieeexplore.ieee.org/document/11660856)] [[site](https://sites.google.com/view/lstp-nav)] [[github](https://github.com/xrdiao/LSTP-Nav)]
 
 </div>
 </div>
@@ -232,13 +232,19 @@ IEEE Transactions on Automation Science and Engineering (TASE)
   - IEEE/ASME Transactions on Mechatronics (TMECH)
   - IEEE Transactions on Automation Science and Engineering (TASE)
 
-- ### Conference Reviewer:
+- **Conference Reviewer:**
 
-  - IEEE International Conference on Robotics and Automation (ICRA)
-  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
-  - IEEE International Conference on Robotics and Biomimetics (ROBIO)
-  - IEEE International Conference on Information Automation (ICIA)
-  - International Conference on Biomimetic Intelligence and Robotics (ICBIR)
+  - IEEE International Conference on Robotics and Automation (ICRA), 2024 ~ Present
+  - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2023 ~ Present
+  - IEEE International Conference on Robotics and Biomimetics (ROBIO), 2025 ~ Present
+  - IEEE International Conference on Information Automation (ICIA), 2025 ~ Present
+  - International Conference on Biomimetic Intelligence and Robotics (ICBIR), 2025 ~ Present
+
+- **Conference Volunteer Services:**
+
+  - IEEE International Conference on Robotics and Biomimetics (ROBIO), 2026
+  - IEEE International Conference on Information Automation (ICIA), 2026
+  - International Conference on Biomimetic Intelligence and Robotics (ICBIR), 2026
 
 
 # 📖 Educations
