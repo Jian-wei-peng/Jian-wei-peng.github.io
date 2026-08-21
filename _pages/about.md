@@ -228,9 +228,9 @@ IEEE Transactions on Automation Science and Engineering (TASE)
 
 - **Journal Reviewer:**
 
-  - IEEE Robotics and Automation Letters (RAL)
-  - IEEE/ASME Transactions on Mechatronics (TMECH)
-  - IEEE Transactions on Automation Science and Engineering (TASE)
+  - IEEE Robotics and Automation Letters (RAL), 2025 ~ Present
+  - IEEE/ASME Transactions on Mechatronics (TMECH), 2025 ~ Present
+  - IEEE Transactions on Automation Science and Engineering (TASE), 2026 ~ Present
 
 - **Conference Reviewer:**
 
