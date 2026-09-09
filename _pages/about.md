@@ -28,19 +28,19 @@ Previously, I served as a research and teaching assistant at the Shenzhen Key La
 
 # 🔥 News
 
-- *2026.09*: &nbsp; One paper is accepted by IJSR [[doi](https://link.springer.com/article/10.1007/s12369-026-01439-2)].
+- *2026.09*: &nbsp; One paper is accepted by [International Journal of Social Robotics](https://link.springer.com/article/10.1007/s12369-026-01439-2).
 - *2026.08*: &nbsp; [LSTP-Nav](https://sites.google.com/view/xingrong2024efficient) is accepted by TASE.
 - *2026.06*: &nbsp; [TARIC](https://ieeexplore.ieee.org/document/11578332) is accepted by RAL.
-- *2026.02*: &nbsp; One paper is accepted by RAL [doi](https://ieeexplore.ieee.org/document/11410119).
+- *2026.02*: &nbsp; One paper is accepted by [RAL](https://ieeexplore.ieee.org/document/11410119).
 - *2026.01*: &nbsp; [Adap-RPF](https://adap-rpf.github.io/) and [EZREAL](https://tianlezeng.github.io/EzReal/) are accepted by ICRA 2026.
 - *2025.10*: &nbsp; Check out our latest work, “Adap-RPF: Adaptive Trajectory Sampling for Robot Person Following in Dynamic Crowded Environments.”
 - *2025.09*: &nbsp; Check out our recent work, “Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following.”
 - *2025.09*: &nbsp; Check out our recent work, “EZREAL: Enhancing Zero-Shot Outdoor Robot Navigation toward Distant Targets under Varying Visibility.”
 - *2025.07*: &nbsp; Check out our recent work, “LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR.”
 - *2024.05*: &nbsp; Presenting our work at ICRA 2024 in Yokohama, Japan. My first oral presentation in my academic career 🎉
-- *2024.02*: &nbsp; One paper is accepted by ICRA 2024 [[doi](https://ieeexplore.ieee.org/abstract/document/10611263)].
-- *2023.08*: &nbsp; One paper is accepted by CAC 2023 [[doi](https://ieeexplore.ieee.org/document/10452070)].
-- *2023.06*: &nbsp; One paper is accepted by IROS 2023 [[doi](https://ieeexplore.ieee.org/abstract/document/10342246)].
+- *2024.02*: &nbsp; One paper is accepted by [ICRA 2024](https://ieeexplore.ieee.org/abstract/document/10611263).
+- *2023.08*: &nbsp; One paper is accepted by [CAC 2023](https://ieeexplore.ieee.org/document/10452070).
+- *2023.06*: &nbsp; One paper is accepted by [IROS 2023](https://ieeexplore.ieee.org/abstract/document/10342246).
 
 
 # 📝 Research
