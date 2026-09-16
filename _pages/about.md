@@ -66,6 +66,8 @@ Hanchen Yao, **<u>Jianwei Peng</u>**, Houde Dai, Fanbiao Li, Tim C. Lueth
 
 IEEE Robotics and Automation Letters (RAL)
 
+2026 International Conference on Automation Science and Engineering (CASE)
+
 [[paper](http://Jian-wei-peng.github.io/files/ral_yao.pdf)] [[doi](https://ieeexplore.ieee.org/document/11410119)]
 
 </div>
