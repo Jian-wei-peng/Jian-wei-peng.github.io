@@ -4,22 +4,22 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Research"
-    url: "/#-research"
+    url: "/#research"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "Awards"
+    url: "/#honors-and-awards"
 
-  - title: "Academic Services"
-    url: "/#-academic-services"
+  - title: "Service"
+    url: "/#academic-services"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "Education"
+    url: "/#education"
 
-  - title: "Work Experience"
-    url: "/#-work-experience"
+  - title: "Experience"
+    url: "/#work-experience"
   
   # - title: "CV"
   #   url: "https://jian-wei-peng.github.io/files/CV.pdf"
