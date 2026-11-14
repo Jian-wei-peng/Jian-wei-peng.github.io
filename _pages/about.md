@@ -9,13 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 # About Me
 {: #about-me}
 
@@ -58,11 +51,6 @@ I received my B.Eng. in Automation from [Huaqiao University](https://en.hqu.edu.
 {: #research}
 
 Full publication list on [Google Scholar](https://scholar.google.com/citations?user=ZLUN4K0AAAAJ&hl=en).
-
-<p class="scholar-stats" role="status" aria-live="polite" aria-atomic="true">
-  <span class="scholar-stats__metric">Total citations <strong id="total_cit">—</strong></span>
-  <span class="scholar-stats__updated" id="scholar_updated">View count on Google Scholar</span>
-</p>
 
 ## Robot Person Following
 {: #robot-person-following .research-category}

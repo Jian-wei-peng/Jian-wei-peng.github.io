@@ -53,29 +53,6 @@
 
     .legacy-anchor { display: block; scroll-margin-top: 6rem; }
 
-    .scholar-stats {
-      display: flex;
-      flex-wrap: wrap;
-      align-items: baseline;
-      gap: 0.25rem 1rem;
-      margin: -0.25rem 0 1.25rem;
-      color: #475569;
-      font-size: 0.9rem;
-
-      &__metric { white-space: nowrap; }
-      strong {
-        margin-left: 0.35rem;
-        color: #1e40af;
-        font-size: 1.2rem;
-        font-weight: 600;
-        font-variant-numeric: tabular-nums;
-      }
-      &__updated {
-        color: #64748b;
-        font-size: 0.8rem;
-      }
-    }
-
     .research-category {
       margin: 1.8rem 0 0;
       padding-left: 0.75rem;
