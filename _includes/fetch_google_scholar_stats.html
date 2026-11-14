@@ -1,19 +1,49 @@
 <script>
     $(document).ready(function () {
+        var total = document.getElementById('total_cit');
+        var updated = document.getElementById('scholar_updated');
+        var papers = document.getElementsByClassName('show_paper_citations');
+        if (!total && !papers.length) return;
+
+        var rawUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/google-scholar-stats/gs_data.json';
         {% if site.google_scholar_stats_use_cdn %}
-        var gsDataBaseUrl = 'https://cdn.jsdelivr.net/gh/{{ site.repository }}@'
+        var urls = ['https://cdn.jsdelivr.net/gh/{{ site.repository }}@google-scholar-stats/gs_data.json', rawUrl];
         {% else %}
-        var gsDataBaseUrl = 'https://raw.githubusercontent.com/{{ site.repository }}/'
+        var urls = [rawUrl];
         {% endif %}
-        $.getJSON(gsDataBaseUrl + "google-scholar-stats/gs_data.json", function (data) {
-            var totalCitation = data['citedby']
-            document.getElementById('total_cit').innerHTML = totalCitation;
-            var citationEles = document.getElementsByClassName('show_paper_citations')
-            Array.prototype.forEach.call(citationEles, element => {
-                var paperId = element.getAttribute('data')
-                var numCitations = data['publications'][paperId]['num_citations']
-                element.innerHTML = '| Citations: ' + numCitations;
+
+        function validCount(value) {
+            return typeof value === 'number' && isFinite(value) && value >= 0 && Math.floor(value) === value;
+        }
+
+        function render(data) {
+            if (!data || !validCount(data.citedby)) return false;
+            if (total) total.textContent = data.citedby.toLocaleString('en-US');
+            if (updated) {
+                // Accept both the crawler's original datetime and ISO 8601 timestamps.
+                var date = typeof data.updated === 'string' && data.updated.match(/^(\d{4}-\d{2}-\d{2})(?:T| |$)/);
+                updated.textContent = date ? 'Updated ' + date[1] : 'Source: Google Scholar';
+            }
+            Array.prototype.forEach.call(papers, function (element) {
+                var paper = (data.publications || {})[element.getAttribute('data')];
+                if (paper && validCount(paper.num_citations)) {
+                    element.textContent = '| Citations: ' + paper.num_citations.toLocaleString('en-US');
+                }
             });
-        });
-    })
+            return true;
+        }
+
+        function load(index) {
+            if (index >= urls.length) {
+                if (updated) updated.textContent = 'Temporarily unavailable · View Google Scholar above';
+                return;
+            }
+            $.ajax({url: urls[index], dataType: 'json', timeout: 10000})
+                .done(function (data) { if (!render(data)) load(index + 1); })
+                .fail(function () { load(index + 1); });
+        }
+
+        if (updated) updated.textContent = 'Loading citation data…';
+        load(0);
+    });
 </script>

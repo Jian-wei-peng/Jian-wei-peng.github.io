@@ -19,16 +19,11 @@ redirect_from:
 # About Me
 {: #about-me}
 
-I am a Ph.D. student in the Department of Electronic and Electrical Engineering at Southern University of Science and Technology ([SUSTech](https://www.sustech.edu.cn/en/)), advised by [Prof. Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and co-advised by [Prof. Hong Zhang](https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en). My research focuses on robot person following (RPF) in human-centric scenarios, with a particular emphasis on motion planning, control, and LLM/VLM. My long-term vision is to architect a socially intelligent RPF framework that seamlessly integrates with human dynamics, coupling robust assistive capabilities with intrinsic social compliance.
+I am a Ph.D. student in the Department of Electronic and Electrical Engineering at Southern University of Science and Technology ([SUSTech](https://www.sustech.edu.cn/en/)), advised by [Prof. Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and co-advised by [Prof. Hong Zhang](https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en). My research focuses on robot person following (RPF), particularly motion planning, control, and vision-language models (VLMs) in human-centered environments. My long-term goal is to develop socially intelligent robots that can follow and assist people while adapting to their behavior and respecting social norms.
 
-<details class="background-details" markdown="1">
-<summary>Earlier experience &amp; education</summary>
+Before starting my Ph.D., I worked as a research and teaching assistant at the Shenzhen Key Laboratory of Robotic Perception and Intelligence, SUSTech, in 2025, working with [Prof. Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Prof. Max Q.-H. Meng](https://www.sustech.edu.cn/en/faculties/mengqinghu.html). From 2023 to 2024, I was a research assistant at the [Quanzhou Institute of Equipment Manufacturing](http://english.fjirsm.cas.cn/et/), Chinese Academy of Sciences (CAS), working with [Prof. Houde Dai](https://people.ucas.edu.cn/~dhd?language=en).
 
-Previously, I served as a research and teaching assistant at the Shenzhen Key Laboratory of Robotic Perception and Intelligence, SUSTech (2025), working with [Prof. Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Prof. Max Q.-H. Meng](https://www.sustech.edu.cn/en/faculties/mengqinghu.html). Earlier in 2024, I was a research assistant at the [Quanzhou Institute of Equipment Manufacturing](http://english.fjirsm.cas.cn/et/), Chinese Academy of Sciences (CAS), working with [Prof. Houde Dai](https://people.ucas.edu.cn/~dhd?language=en). 
-
- I obtained my B.Eng. in Automation from [Huaqiao University](https://en.hqu.edu.cn/) in 2020. That same year, I was admitted via merit-based exemption to the [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/), where I pursued graduate studies at the [Fujian Institute of Research on the Structure of Matter](http://english.fjirsm.cas.cn/et/), CAS. I received my M.Eng. in Control Engineering in 2023.
-
-</details>
+I received my B.Eng. in Automation from [Huaqiao University](https://en.hqu.edu.cn/) in 2020. I was subsequently admitted to the [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) through a recommendation-based admission process and received my M.Eng. in Control Engineering in 2023. During my master’s studies, I pursued research at the [Fujian Institute of Research on the Structure of Matter](http://english.fjirsm.cas.cn/et/), CAS.
 
 <span id="-news" class="legacy-anchor" aria-hidden="true"></span>
 
@@ -63,6 +58,11 @@ Previously, I served as a research and teaching assistant at the Shenzhen Key La
 {: #research}
 
 Full publication list on [Google Scholar](https://scholar.google.com/citations?user=ZLUN4K0AAAAJ&hl=en).
+
+<p class="scholar-stats" role="status" aria-live="polite" aria-atomic="true">
+  <span class="scholar-stats__metric">Total citations <strong id="total_cit">—</strong></span>
+  <span class="scholar-stats__updated" id="scholar_updated">View count on Google Scholar</span>
+</p>
 
 ## Robot Person Following
 {: #robot-person-following .research-category}
@@ -157,7 +157,7 @@ IEEE Transactions on Automation Science and Engineering (TASE)
 2024 IEEE International Conference on Robotics and Automation (ICRA)
 {: .paper-venue}
 
-[![Paper PDF](https://img.shields.io/badge/Paper-PDF-007EC6?style=flat)](http://Jian-wei-peng.github.io/files/icra2024.pdf) [![IEEE Paper](https://img.shields.io/badge/IEEE-Paper-003366?style=flat)](https://ieeexplore.ieee.org/abstract/document/10611263)
+[![Paper PDF](https://img.shields.io/badge/Paper-PDF-007EC6?style=flat)](http://Jian-wei-peng.github.io/files/icra2024.pdf) [![IEEE Paper](https://img.shields.io/badge/IEEE-Paper-003366?style=flat)](https://ieeexplore.ieee.org/abstract/document/10611263) [![Video YouTube](https://img.shields.io/badge/Video-YouTube-B91C1C?style=flat)](https://youtu.be/Q1BG2GLAg8c)
 {: .paper-links}
 
 </div>
@@ -180,7 +180,7 @@ IEEE Transactions on Automation Science and Engineering (TASE)
 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 {: .paper-venue}
 
-[![Paper PDF](https://img.shields.io/badge/Paper-PDF-007EC6?style=flat)](http://Jian-wei-peng.github.io/files/iros2023.pdf) [![IEEE Paper](https://img.shields.io/badge/IEEE-Paper-003366?style=flat)](https://ieeexplore.ieee.org/abstract/document/10342246)
+[![Paper PDF](https://img.shields.io/badge/Paper-PDF-007EC6?style=flat)](http://Jian-wei-peng.github.io/files/iros2023.pdf) [![IEEE Paper](https://img.shields.io/badge/IEEE-Paper-003366?style=flat)](https://ieeexplore.ieee.org/abstract/document/10342246) [![Video YouTube](https://img.shields.io/badge/Video-YouTube-B91C1C?style=flat)](https://youtu.be/rw8Gd4XVBu8)
 {: .paper-links}
 
 </div>
@@ -208,7 +208,7 @@ Tianle Zeng, Hanjing Ye, **<u>Jianwei Peng</u>**, Jingwen Yu, Hanxuan Chen, Hong
 IEEE Robotics and Automation Letters (RAL)
 {: .paper-venue}
 
-[![IEEE Paper](https://img.shields.io/badge/IEEE-Paper-003366?style=flat)](https://ieeexplore.ieee.org/document/11578332) [![中文介绍 视觉语言导航](https://img.shields.io/badge/%E4%B8%AD%E6%96%87%E4%BB%8B%E7%BB%8D-%E8%A7%86%E8%A7%89%E8%AF%AD%E8%A8%80%E5%AF%BC%E8%88%AA-007EC6?style=flat)](https://mp.weixin.qq.com/s/eYAJVoAt0VqKozh6IZcA9Q)
+[![IEEE Paper](https://img.shields.io/badge/IEEE-Paper-003366?style=flat)](https://ieeexplore.ieee.org/document/11578332) [![arXiv 2605.31121](https://img.shields.io/badge/arXiv-2605.31121-003366?style=flat)](https://arxiv.org/abs/2605.31121) [![中文介绍 视觉语言导航](https://img.shields.io/badge/%E4%B8%AD%E6%96%87%E4%BB%8B%E7%BB%8D-%E8%A7%86%E8%A7%89%E8%AF%AD%E8%A8%80%E5%AF%BC%E8%88%AA-007EC6?style=flat)](https://mp.weixin.qq.com/s/eYAJVoAt0VqKozh6IZcA9Q)
 {: .paper-links}
 
 </div>
@@ -231,7 +231,7 @@ Tianle Zeng, **<u>Jianwei Peng</u>**, Hanjing Ye, Guangcheng Chen, Senzi Luo, Ho
 2026 IEEE International Conference on Robotics and Automation (ICRA)
 {: .paper-venue}
 
-[![arXiv 2509.13720](https://img.shields.io/badge/arXiv-2509.13720-003366?style=flat)](https://arxiv.org/abs/2509.13720) [![Project Page](https://img.shields.io/badge/Project-Page-007EC6?style=flat)](https://tianlezeng.github.io/EzReal/) [![GitHub Stars](https://img.shields.io/github/stars/louiszengCN/EzReal?style=social)](https://github.com/louiszengCN/EzReal) [![中文介绍 深蓝学院](https://img.shields.io/badge/%E4%B8%AD%E6%96%87%E4%BB%8B%E7%BB%8D-%E6%B7%B1%E8%93%9D%E5%AD%A6%E9%99%A2-007EC6?style=flat)](https://mp.weixin.qq.com/s/KR8Gory9DEhkFB4GDgwmjA)
+[![IEEE Paper](https://img.shields.io/badge/IEEE-Paper-003366?style=flat)](https://ieeexplore.ieee.org/document/11696640) [![arXiv 2509.13720](https://img.shields.io/badge/arXiv-2509.13720-003366?style=flat)](https://arxiv.org/abs/2509.13720) [![Project Page](https://img.shields.io/badge/Project-Page-007EC6?style=flat)](https://tianlezeng.github.io/EzReal/)  [![中文介绍 深蓝学院](https://img.shields.io/badge/%E4%B8%AD%E6%96%87%E4%BB%8B%E7%BB%8D-%E6%B7%B1%E8%93%9D%E5%AD%A6%E9%99%A2-007EC6?style=flat)](https://mp.weixin.qq.com/s/KR8Gory9DEhkFB4GDgwmjA) [![GitHub Stars](https://img.shields.io/github/stars/louiszengCN/EzReal?style=social)](https://github.com/louiszengCN/EzReal)
 {: .paper-links}
 
 </div>
@@ -254,7 +254,7 @@ Xingrong Diao, Zhirui Sun, **<u>Jianwei Peng</u>**, Bike Zhu, Jiankun Wang
 IEEE Transactions on Automation Science and Engineering (TASE)
 {: .paper-venue}
 
-[![IEEE Paper](https://img.shields.io/badge/IEEE-Paper-003366?style=flat)](https://ieeexplore.ieee.org/document/11660856) [![Project Page](https://img.shields.io/badge/Project-Page-007EC6?style=flat)](https://sites.google.com/view/lstp-nav) [![GitHub Stars](https://img.shields.io/github/stars/xrdiao/LSTP-Nav?style=social)](https://github.com/xrdiao/LSTP-Nav)
+[![IEEE Paper](https://img.shields.io/badge/IEEE-Paper-003366?style=flat)](https://ieeexplore.ieee.org/document/11660856) [![arXiv 2408.16370](https://img.shields.io/badge/arXiv-2408.16370-003366?style=flat)](https://arxiv.org/abs/2408.16370) [![Project Page](https://img.shields.io/badge/Project-Page-007EC6?style=flat)](https://sites.google.com/view/lstp-nav) [![GitHub Stars](https://img.shields.io/github/stars/xrdiao/LSTP-Nav?style=social)](https://github.com/xrdiao/LSTP-Nav)
 {: .paper-links}
 
 </div>
@@ -299,7 +299,7 @@ IEEE Transactions on Automation Science and Engineering (TASE)
   - IEEE International Conference on Information Automation (ICIA), 2025 ~ Present
   - International Conference on Biomimetic Intelligence and Robotics (ICBIR), 2025 ~ Present
 
-- **Conference Organizing Committee:**
+- **Conference Organization & Volunteering:**
 
   - IEEE International Conference on Robotics and Biomimetics (ROBIO), 2026
   - IEEE International Conference on Information Automation (ICIA), 2026
@@ -313,7 +313,7 @@ IEEE Transactions on Automation Science and Engineering (TASE)
 
 - *2025.08 - 2029.6 (expected)* Ph.D. in Control Science and Engineering, Southern University of Science and Technology (Shenzhen, China).
 - *2020.09 - 2023.06* M.Eng. in Control Engineering, University of Chinese Academy of Sciences (Beijing, China)
-  - *2021.08 - 2023.06* Fujian Institute of Research on the Structure of Matter, CAS (Quanzhou, China)
+  <span class="education-detail"><span class="education-detail__date">2021.08 – 2023.06</span> · Fujian Institute of Research on the Structure of Matter, CAS (Quanzhou, China)</span>
 - *2016.09 - 2020.06* B.Eng. in Automation, Huaqiao University (Xiamen, China)
 {: .dated-list .timeline-list}
 
