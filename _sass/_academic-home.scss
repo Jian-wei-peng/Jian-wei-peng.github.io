@@ -21,6 +21,11 @@
   .author__bio, .author__urls { font-size: 0.88rem; color: #64748b; }
   .author__avatar img { border-color: #e2e8f0; }
 
+  @include breakpoint($large) {
+    .author__name { margin-bottom: 6px; }
+    .author__bio { margin-top: 6px; margin-bottom: 18px; }
+  }
+
   #main { margin-top: 2rem; }
 
   .page__content {
@@ -44,6 +49,16 @@
     }
 
     p { margin-bottom: 0.85rem; }
+
+    .about-intro p { text-align: left; }
+
+    @media (min-width: 768px) {
+      .about-intro p {
+        text-align: justify;
+        text-align-last: left;
+      }
+    }
+
     a {
       color: #1d4ed8;
       text-decoration: none;
@@ -64,32 +79,72 @@
   }
 
   .news-scroll {
-    max-height: 290px;
+    max-height: 320px;
     padding: 0.65rem 1rem;
-    border-color: #e2e8f0;
+    border: 0;
     border-radius: 6px;
-    background: #f8fafc;
+    background: #fff;
+    scrollbar-gutter: stable;
     scrollbar-width: thin;
     scrollbar-color: #94a3b8 #f8fafc;
-    ul { padding: 0; list-style: none; }
-    li {
+
+    &::-webkit-scrollbar { width: 6px; }
+    &::-webkit-scrollbar-thumb { background: #94a3b8; border-radius: 6px; }
+    &::-webkit-scrollbar-track { background: #f8fafc; }
+
+    > ul { padding: 0; list-style: none; }
+    > ul > li {
       position: relative;
-      margin: 0;
-      padding: 0.55rem 0 0.55rem 5.5rem;
-      font-size: 0.9rem;
-      border-bottom: 1px solid #e2e8f0;
-      &:last-child { border-bottom: 0; }
+      margin: 0 0 0.3rem;
+      padding: 0.45rem 0 0.45rem 5.6rem;
+      font-size: 0.95rem;
+      line-height: 1.7;
+
       > em:first-child {
         position: absolute;
         left: 0;
+        top: 0.45rem;
         color: #64748b;
         font-style: normal;
-        font-family: ui-monospace, SFMono-Regular, Consolas, monospace;
-        font-size: 0.8rem;
-        line-height: 1.85;
+        font-size: inherit;
         font-variant-numeric: tabular-nums;
+        white-space: nowrap;
       }
-      &:nth-child(-n+3) > em:first-child { color: #1d4ed8; font-weight: 600; }
+
+      &:last-child { margin-bottom: 0; }
+    }
+  }
+
+  .page__content .news-window a {
+    color: #334155;
+    text-decoration: underline;
+    text-decoration-color: #a8b5c5;
+    text-decoration-thickness: 1px;
+    text-underline-offset: 3px;
+
+    &:hover,
+    &:focus-visible {
+      color: #1d4ed8;
+      text-decoration-color: #1d4ed8;
+    }
+  }
+
+  .news-window,
+  .awards-window {
+    position: relative;
+
+    // Keep the final item clear of the fade when scrolled all the way down.
+    .news-scroll { padding-bottom: 2.5rem; }
+
+    &::after {
+      content: "";
+      position: absolute;
+      left: 0;
+      right: 1rem;
+      bottom: 0;
+      height: 2rem;
+      background: linear-gradient(to bottom, rgba(255, 255, 255, 0), #fff 75%);
+      pointer-events: none;
     }
   }
 
@@ -116,6 +171,37 @@
       .paper-venue { font-size: 0.94rem; font-style: italic; color: #1e40af; }
       .paper-links { margin: 0.7rem 0 0; gap: 6px; }
       .paper-links a:hover img { box-shadow: none; opacity: 0.85; }
+    }
+  }
+
+  // Small hover lifts for mouse users; transforms keep surrounding rows in place.
+  @media screen and (hover: hover) and (pointer: fine) and (prefers-reduced-motion: no-preference) {
+    .news-scroll,
+    .paper-box {
+      background-color: #fff;
+      border-radius: 6px;
+      transition: transform 180ms ease, box-shadow 180ms ease;
+
+      &:hover,
+      &:focus-within {
+        z-index: 1;
+        transform: translateY(-2px);
+        box-shadow: 0 4px 10px rgba(15, 23, 42, 0.08);
+      }
+    }
+
+    .paper-box {
+      position: relative;
+      margin-left: -0.75rem;
+      margin-right: -0.75rem;
+      padding-left: 0.75rem;
+      padding-right: 0.75rem;
+
+      &:hover,
+      &:focus-within {
+        transform: translateY(-4px);
+        box-shadow: 0 8px 24px rgba(15, 23, 42, 0.09);
+      }
     }
   }
 
@@ -189,6 +275,15 @@
   }
 
   @media (max-width: 420px) {
+    .news-scroll > ul > li {
+      padding-left: 0;
+      > em:first-child {
+        position: static;
+        display: block;
+        margin-bottom: 0.15rem;
+        font-size: 0.85rem;
+      }
+    }
     .dated-list > li {
       padding-left: 0;
       > em:first-child { position: static; display: block; }
@@ -197,6 +292,7 @@
 
   @media print {
     .news-scroll { max-height: none; overflow: visible; }
+    .news-window::after, .awards-window::after { display: none; }
     .paper-box { break-inside: avoid; }
   }
 }

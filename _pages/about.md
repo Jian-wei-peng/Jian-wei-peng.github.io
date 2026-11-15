@@ -12,36 +12,41 @@ redirect_from:
 # About Me
 {: #about-me}
 
-I am a Ph.D. student in the Department of Electronic and Electrical Engineering at Southern University of Science and Technology ([SUSTech](https://www.sustech.edu.cn/en/)), advised by [Prof. Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and co-advised by [Prof. Hong Zhang](https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en). My research focuses on robot person following (RPF), particularly motion planning, control, and vision-language models (VLMs) in human-centered environments. My long-term goal is to develop socially intelligent robots that can follow and assist people while adapting to their behavior and respecting social norms.
+<div class="about-intro" markdown="1">
 
-Before starting my Ph.D., I worked as a research and teaching assistant at the Shenzhen Key Laboratory of Robotic Perception and Intelligence, SUSTech, in 2025, working with [Prof. Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Prof. Max Q.-H. Meng](https://www.sustech.edu.cn/en/faculties/mengqinghu.html). From 2023 to 2024, I was a research assistant at the [Quanzhou Institute of Equipment Manufacturing](http://english.fjirsm.cas.cn/et/), Chinese Academy of Sciences (CAS), working with [Prof. Houde Dai](https://people.ucas.edu.cn/~dhd?language=en).
+I am a Ph.D. student in the Department of Electronic and Electrical Engineering at Southern University of Science and Technology (SUSTech), advised by [Prof. Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and co-advised by [Prof. Hong Zhang](https://faculty.sustech.edu.cn/?tagid=zhangh33&iscss=1&snapid=1&orderby=date&go=2&lang=en). My research focuses on robot person following (RPF), particularly motion planning, control, and vision-language models in human-centered environments. My long-term goal is to develop socially intelligent robots that can follow and assist people while adapting to their behavior and respecting social norms.
 
-I received my B.Eng. in Automation from [Huaqiao University](https://en.hqu.edu.cn/) in 2020. I was subsequently admitted to the [University of Chinese Academy of Sciences (UCAS)](https://english.ucas.ac.cn/) through a recommendation-based admission process and received my M.Eng. in Control Engineering in 2023. During my master’s studies, I pursued research at the [Fujian Institute of Research on the Structure of Matter](http://english.fjirsm.cas.cn/et/), CAS.
+Before starting my Ph.D., I worked as a research and teaching assistant at the Shenzhen Key Laboratory of Robotic Perception and Intelligence, in 2025, with [Prof. Jiankun Wang](https://www.sustech.edu.cn/en/faculties/jiankunwang.html) and [Prof. Max Q.-H. Meng](https://www.sustech.edu.cn/en/faculties/mengqinghu.html), and as a research assistant at the Quanzhou Institute of Equipment Manufacturing, Chinese Academy of Sciences, from 2023 to 2024, with [Prof. Houde Dai](https://people.ucas.edu.cn/~dhd?language=en). I received my B.Eng. in Automation from Huaqiao University in 2020 and my M.Eng. in Control Engineering from the University of Chinese Academy of Sciences in 2023.
+
+</div>
 
 <span id="-news" class="legacy-anchor" aria-hidden="true"></span>
 
 # News
 {: #news}
 
+<div class="news-window" markdown="1">
 <div class="news-scroll" markdown="1" tabindex="0" role="region" aria-label="News archive">
 
-- *2026.11* One paper is accepted by [IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/11794509).
-- *2026.09* One paper is accepted by [International Journal of Social Robotics](https://link.springer.com/article/10.1007/s12369-026-01439-2).
-- *2026.08* [LSTP-Nav](https://sites.google.com/view/xingrong2024efficient) is accepted by TASE.
-- *2026.06* [TARIC](https://ieeexplore.ieee.org/document/11578332) is accepted by RAL.
-- *2026.02* One paper is accepted by [RAL](https://ieeexplore.ieee.org/document/11410119).
-- *2026.01* [Adap-RPF](https://adap-rpf.github.io/) and [EZREAL](https://tianlezeng.github.io/EzReal/) are accepted by ICRA 2026.
+- *2026.11* One paper has been accepted for publication in [IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/11794509).
+- *2026.09* Follow-Bench 2.0 has been accepted to the NeurIPS ED Track 2026. Paper and code are coming soon.
+- *2026.09* One paper has been accepted for publication in [International Journal of Social Robotics](https://link.springer.com/article/10.1007/s12369-026-01439-2).
+- *2026.08* [LSTP-Nav](https://sites.google.com/view/xingrong2024efficient) has been accepted for publication in TASE.
+- *2026.06* [TARIC](https://ieeexplore.ieee.org/document/11578332) has been accepted for publication in RAL.
+- *2026.02* One paper has been accepted for publication in [RAL](https://ieeexplore.ieee.org/document/11410119).
+- *2026.01* [Adap-RPF](https://adap-rpf.github.io/) and [EZREAL](https://tianlezeng.github.io/EzReal/) have been accepted to ICRA 2026.
 - *2025.10* Check out our latest work, “Adap-RPF: Adaptive Trajectory Sampling for Robot Person Following in Dynamic Crowded Environments.”
 - *2025.09* Check out our recent work, “Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following.”
 - *2025.09* Check out our recent work, “EZREAL: Enhancing Zero-Shot Outdoor Robot Navigation toward Distant Targets under Varying Visibility.”
 - *2025.07* Check out our recent work, “LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR.”
-- *2024.05* Presenting our work at ICRA 2024 in Yokohama, Japan. My first oral presentation in my academic career 🎉
-- *2024.02* One paper is accepted by [ICRA 2024](https://ieeexplore.ieee.org/abstract/document/10611263).
-- *2023.08* One paper is accepted by [CAC 2023](https://ieeexplore.ieee.org/document/10452070).
-- *2023.06* One paper is accepted by [IROS 2023](https://ieeexplore.ieee.org/abstract/document/10342246).
-- *2023.06* I successfully defended my thesis and obtained my Master of Engineering degree from UCAS 🎉🎉
-- *2022.11* Honored to receive the China National Scholarship!!! 🎉🎉
+- *2024.05* I presented our work at ICRA 2024 in Yokohama, Japan—my first oral presentation in my academic career! 🎉
+- *2024.02* One paper has been accepted to [ICRA 2024](https://ieeexplore.ieee.org/abstract/document/10611263).
+- *2023.08* One paper has been accepted to [CAC 2023](https://ieeexplore.ieee.org/document/10452070).
+- *2023.06* One paper has been accepted to [IROS 2023](https://ieeexplore.ieee.org/abstract/document/10342246).
+- *2023.06* I successfully defended my thesis and earned my M.Eng. from UCAS. 🎉🎉
+- *2022.11* I was honored to receive the **National Scholarship**!!! 🎉🎉
 
+</div>
 </div>
 
 
@@ -254,8 +259,11 @@ IEEE Transactions on Automation Science and Engineering (TASE)
 # Honors & Awards
 {: #honors-and-awards}
 
-- *2024.08* **Best Prototype Award** in the Technology Category at the 2024 International Convention on Rehabilitation Engineering and Assistive Technology (i-CREATe 2024).
-- *2023.08* **Best Conference Paper Finalist** at the Eighth International Conference on Cognitive Systems and Information Processing (ICCSIP 2023).
+<div class="awards-window" markdown="1">
+<div class="news-scroll" markdown="1" tabindex="0" role="region" aria-label="Honors and awards archive">
+
+- *2024.08* **Best Prototype Award** at the 2024 International Convention on Rehabilitation Engineering and Assistive Technology.
+- *2023.08* **Best Conference Paper Finalist** at the Eighth International Conference on Cognitive Systems and Information Processing.
 - *2022.12* **Future Talent Support Program** of the Shanghai Branch of the Chinese Academy of Sciences.
 - *2022.11* **National Scholarship**.
 - *2022.11* **Third Prize** in the Artificial Intelligence Category at the First Staff Skills Competition of the Chinese Academy of Sciences.
@@ -267,6 +275,9 @@ IEEE Transactions on Automation Science and Engineering (TASE)
 - *2018.11* **National Second Prize** of 2018 China University Student Mathematical Modelling Competition.
 - *2017~2019* **First-class Undergraduate Academic Scholarship** at Huaqiao University.
 {: .dated-list .awards-list}
+
+</div>
+</div>
 
 <span id="-academic-services" class="legacy-anchor" aria-hidden="true"></span>
 
@@ -301,13 +312,13 @@ IEEE Transactions on Automation Science and Engineering (TASE)
 
 - *2025.08 - 2029.6 (expected)* Ph.D. in Control Science and Engineering, Southern University of Science and Technology (Shenzhen, China).
 - *2020.09 - 2023.06* M.Eng. in Control Engineering, University of Chinese Academy of Sciences (Beijing, China)
-  <span class="education-detail"><span class="education-detail__date">2021.08 – 2023.06</span> · Fujian Institute of Research on the Structure of Matter, CAS (Quanzhou, China)</span>
+  <span class="education-detail"><span class="education-detail__date">2021.08 – 2023.06</span> · School of Intelligent Manufacturing, Fujian College, UCAS (Quanzhou, China)</span>
 - *2016.09 - 2020.06* B.Eng. in Automation, Huaqiao University (Xiamen, China)
 {: .dated-list .timeline-list}
 
 <span id="-work-experience" class="legacy-anchor" aria-hidden="true"></span>
 
-# Experience
+# Work Experience
 {: #work-experience}
 
 - *2025.04 - 2025.08* Research and Teaching Assistant, Southern University of Science and Technology
