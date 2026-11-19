@@ -36,7 +36,7 @@ Before starting my Ph.D., I worked as a research and teaching assistant at the S
 - *2026.06* [TARIC](https://ieeexplore.ieee.org/document/11578332) has been accepted for publication in RAL.
 - *2026.02* One paper has been accepted for publication in [RAL](https://ieeexplore.ieee.org/document/11410119).
 - *2026.01* [Adap-RPF](https://adap-rpf.github.io/) and [EZREAL](https://tianlezeng.github.io/EzReal/) have been accepted to ICRA 2026.
-- *2025.10* Check out our latest work, “Adap-RPF: Adaptive Trajectory Sampling for Robot Person Following in Dynamic Crowded Environments.”
+- *2025.10* Check out our recent work, “Adap-RPF: Adaptive Trajectory Sampling for Robot Person Following in Dynamic Crowded Environments.”
 - *2025.09* Check out our recent work, “Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following.”
 - *2025.09* Check out our recent work, “EZREAL: Enhancing Zero-Shot Outdoor Robot Navigation toward Distant Targets under Varying Visibility.”
 - *2025.07* Check out our recent work, “LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR.”
