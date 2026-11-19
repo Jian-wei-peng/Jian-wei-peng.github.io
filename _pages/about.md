@@ -29,6 +29,7 @@ Before starting my Ph.D., I worked as a research and teaching assistant at the S
 <div class="news-scroll" markdown="1" tabindex="0" role="region" aria-label="News archive">
 
 - *2026.11* One paper has been accepted for publication in [IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/11794509).
+- *2026.10* Check out our latest work, “VP-EVT: Active Visibility Preservation for Embodied Visual Tracking”, [arxiv](https://arxiv.org/abs/2610.21999).
 - *2026.09* Follow-Bench 2.0 has been accepted to the NeurIPS ED Track 2026. Paper and code are coming soon.
 - *2026.09* One paper has been accepted for publication in [International Journal of Social Robotics](https://link.springer.com/article/10.1007/s12369-026-01439-2).
 - *2026.08* [LSTP-Nav](https://sites.google.com/view/xingrong2024efficient) has been accepted for publication in TASE.
