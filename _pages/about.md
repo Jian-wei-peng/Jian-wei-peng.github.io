@@ -28,11 +28,13 @@ Before starting my Ph.D., I worked as a research and teaching assistant at the S
 <div class="news-window" markdown="1">
 <div class="news-scroll" markdown="1" tabindex="0" role="region" aria-label="News archive">
 
+- *2026.11* [Follow-Bench](https://github.com/MedlarTea/follow-bench) has been accepted for publication in IEEE TASE.
 - *2026.11* One paper has been accepted for publication in [IEEE Transactions on Systems, Man, and Cybernetics: Systems](https://ieeexplore.ieee.org/document/11794509).
-- *2026.10* Check out our latest work, “VP-EVT: Active Visibility Preservation for Embodied Visual Tracking”, [arxiv](https://arxiv.org/abs/2610.21999).
+- *2026.10* Check out our latest work, “VP-EVT: Active Visibility Preservation for Embodied Visual Tracking”, [[arxiv]](https://arxiv.org/abs/2610.21999).
 - *2026.09* Follow-Bench 2.0 has been accepted to the NeurIPS ED Track 2026. Paper and code are coming soon.
 - *2026.09* One paper has been accepted for publication in [International Journal of Social Robotics](https://link.springer.com/article/10.1007/s12369-026-01439-2).
-- *2026.08* [LSTP-Nav](https://sites.google.com/view/xingrong2024efficient) has been accepted for publication in TASE.
+- *2026.08* [LSTP-Nav](https://sites.google.com/view/xingrong2024efficient) has been accepted for publication in IEEE TASE.
+- *2026.07* Check out our recent work, "UMCP: A Unified Multi-Task Collaborative Perception Network for Luggage Trolley Pose Estimation", [[arxiv]](https://arxiv.org/abs/2607.17950).
 - *2026.06* [TARIC](https://ieeexplore.ieee.org/document/11578332) has been accepted for publication in RAL.
 - *2026.02* One paper has been accepted for publication in [RAL](https://ieeexplore.ieee.org/document/11410119).
 - *2026.01* [Adap-RPF](https://adap-rpf.github.io/) and [EZREAL](https://tianlezeng.github.io/EzReal/) have been accepted to ICRA 2026.
@@ -40,6 +42,7 @@ Before starting my Ph.D., I worked as a research and teaching assistant at the S
 - *2025.09* Check out our recent work, “Follow-Bench: A Unified Motion Planning Benchmark for Socially-Aware Robot Person Following.”
 - *2025.09* Check out our recent work, “EZREAL: Enhancing Zero-Shot Outdoor Robot Navigation toward Distant Targets under Varying Visibility.”
 - *2025.07* Check out our recent work, “LSTP-Nav: Lightweight Spatiotemporal Policy for Map-free Multi-agent Navigation with LiDAR.”
+- *2025.01* After a long and winding journey, I am excited to begin my Ph.D. studies at SUSTech this fall, advised by Prof. Jiankun Wang and co-advised by Prof. Hong Zhang.
 - *2024.05* I presented our work at ICRA 2024 in Yokohama, Japan—my first oral presentation in my academic career! 🎉
 - *2024.02* One paper has been accepted to [ICRA 2024](https://ieeexplore.ieee.org/abstract/document/10611263).
 - *2023.08* One paper has been accepted to [CAC 2023](https://ieeexplore.ieee.org/document/10452070).
@@ -288,7 +291,7 @@ IEEE Transactions on Automation Science and Engineering (TASE)
 - **Journal Reviewer:**
 
   - IEEE Robotics and Automation Letters (RAL), 2025 ~ Present
-  - IEEE/ASME Transactions on Mechatronics (TMECH), 2025 ~ Present
+  - IEEE/ASME Transactions on Mechatronics (TMech), 2025 ~ Present
   - IEEE Transactions on Automation Science and Engineering (TASE), 2026 ~ Present
 
 - **Conference Reviewer:**
