@@ -79,7 +79,7 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 Hanchen Yao, **<u>Jianwei Peng</u>**, Houde Dai, Fanbiao Li, Tim C. Lueth
 {: .paper-authors}
 
-IEEE Robotics and Automation Letters (RAL)
+2026 IEEE Robotics and Automation Letters (RAL)
 {: .paper-venue}
 
 2026 IEEE International Conference on Automation Science and Engineering (CASE)
@@ -128,7 +128,7 @@ Weixi Situ, Hanjing Ye, **<u>Jianwei Peng</u>**, Yu Zhan, Hong Zhang
 Hanjing Ye, Weixi Situ, **<u>Jianwei Peng</u>**, Yu Zhan, Bingyi Xia, Kuanqi Cai, Hong Zhang
 {: .paper-authors}
 
-IEEE Transactions on Automation Science and Engineering (TASE)
+2026 IEEE Transactions on Automation Science and Engineering (TASE)
 {: .paper-venue}
 
 [![arXiv 2509.10796](https://img.shields.io/badge/arXiv-2509.10796-003366?style=flat)](https://arxiv.org/abs/2509.10796) [![Project Page](https://img.shields.io/badge/Project-Page-007EC6?style=flat)](https://follow-bench.github.io/) [![GitHub Stars](https://img.shields.io/github/stars/MedlarTea/follow-bench?style=social)](https://github.com/MedlarTea/follow-bench)
@@ -202,7 +202,7 @@ IEEE Transactions on Automation Science and Engineering (TASE)
 Tianle Zeng, Hanjing Ye, **<u>Jianwei Peng</u>**, Jingwen Yu, Hanxuan Chen, Hong Zhang
 {: .paper-authors}
 
-IEEE Robotics and Automation Letters (RAL)
+2026 IEEE Robotics and Automation Letters (RAL)
 {: .paper-venue}
 
 [![IEEE Paper](https://img.shields.io/badge/IEEE-Paper-003366?style=flat)](https://ieeexplore.ieee.org/document/11578332) [![arXiv 2605.31121](https://img.shields.io/badge/arXiv-2605.31121-003366?style=flat)](https://arxiv.org/abs/2605.31121) [![中文介绍 视觉语言导航](https://img.shields.io/badge/%E4%B8%AD%E6%96%87%E4%BB%8B%E7%BB%8D-%E8%A7%86%E8%A7%89%E8%AF%AD%E8%A8%80%E5%AF%BC%E8%88%AA-007EC6?style=flat)](https://mp.weixin.qq.com/s/eYAJVoAt0VqKozh6IZcA9Q)
@@ -248,7 +248,7 @@ Tianle Zeng, **<u>Jianwei Peng</u>**, Hanjing Ye, Guangcheng Chen, Senzi Luo, Ho
 Xingrong Diao, Zhirui Sun, **<u>Jianwei Peng</u>**, Bike Zhu, Jiankun Wang
 {: .paper-authors}
 
-IEEE Transactions on Automation Science and Engineering (TASE)
+2026 IEEE Transactions on Automation Science and Engineering (TASE)
 {: .paper-venue}
 
 [![IEEE Paper](https://img.shields.io/badge/IEEE-Paper-003366?style=flat)](https://ieeexplore.ieee.org/document/11660856) [![arXiv 2408.16370](https://img.shields.io/badge/arXiv-2408.16370-003366?style=flat)](https://arxiv.org/abs/2408.16370) [![Project Page](https://img.shields.io/badge/Project-Page-007EC6?style=flat)](https://sites.google.com/view/lstp-nav) [![GitHub Stars](https://img.shields.io/github/stars/xrdiao/LSTP-Nav?style=social)](https://github.com/xrdiao/LSTP-Nav)
