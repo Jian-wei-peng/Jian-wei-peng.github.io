@@ -64,6 +64,30 @@ Full publication list on [Google Scholar](https://scholar.google.com/citations?u
 ## Robot Person Following
 {: #robot-person-following .research-category}
 
+<!-- follow_bench_v2 -->
+<div class='paper-box'>
+    <div class='paper-box-image'>
+        <video style="width: 100%; aspect-ratio: 16/9; object-fit: cover; display: block;" autoplay loop muted playsinline>
+            <source src="files/follow_bench_v2_video.mp4" type="video/mp4">
+        </video>
+    </div>
+	<div class='paper-box-text' markdown="1">
+**Follow-Bench 2.0: An End-to-End 3D Benchmark for Socially-Aware Robot Person Following**
+{: .paper-title}
+
+Hanjing Ye<sup>*</sup>, Tianle Zeng<sup>*</sup>, **<u>Jianwei Peng</u>**<sup>*</sup>, Yanci Wen, Yuchen Zhou, Yonggen Ling, Hong Zhang<br>
+<sup>*</sup> Equal contribution
+{: .paper-authors}
+
+2026 Annual Conference on Neural Information Processing Systems (NeurIPS)
+{: .paper-venue}
+
+[![Project Page](https://img.shields.io/badge/Project-Page-007EC6?style=flat)](https://medlartea.github.io/follow-bench-v2/) [![GitHub Stars](https://img.shields.io/github/stars/MedlarTea/follow-bench-2.0?style=social)](https://github.com/MedlarTea/follow-bench-2.0/)
+{: .paper-links}
+
+</div>
+</div>
+
 
 <!-- ral_yao -->
 <div class='paper-box'>
