@@ -82,7 +82,7 @@ Hanjing Ye<sup>*</sup>, Tianle Zeng<sup>*</sup>, **<u>Jianwei Peng</u>**<sup>*</
 2026 Annual Conference on Neural Information Processing Systems (NeurIPS)
 {: .paper-venue}
 
-[![Project Page](https://img.shields.io/badge/Project-Page-007EC6?style=flat)](https://medlartea.github.io/follow-bench-v2/) [![GitHub Stars](https://img.shields.io/github/stars/MedlarTea/follow-bench-2.0?style=social)](https://github.com/MedlarTea/follow-bench-2.0/)
+[![OpenReview](https://img.shields.io/badge/OpenReview-Paper%20%26%20Reviews-8c1b13?style=flat)](https://openreview.net/forum?id=q4Gs05xKgs) [![Project Page](https://img.shields.io/badge/Project-Page-007EC6?style=flat)](https://medlartea.github.io/follow-bench-v2/) [![GitHub Stars](https://img.shields.io/github/stars/MedlarTea/follow-bench-2.0?style=social)](https://github.com/MedlarTea/follow-bench-2.0/)
 {: .paper-links}
 
 </div>
