@@ -109,7 +109,7 @@ Hanchen Yao, **<u>Jianwei Peng</u>**, Houde Dai, Fanbiao Li, Tim C. Lueth
 2026 IEEE International Conference on Automation Science and Engineering (CASE)
 {: .paper-venue}
 
-[![Paper PDF](https://img.shields.io/badge/Paper-PDF-007EC6?style=flat)](http://Jian-wei-peng.github.io/files/ral_yao.pdf) [![IEEE Paper](https://img.shields.io/badge/IEEE-Paper-003366?style=flat)](https://ieeexplore.ieee.org/document/11410119)
+[![IEEE Paper](https://img.shields.io/badge/IEEE-Paper-003366?style=flat)](https://ieeexplore.ieee.org/document/11410119) [![Paper PDF](https://img.shields.io/badge/Paper-PDF-007EC6?style=flat)](http://Jian-wei-peng.github.io/files/ral_yao.pdf)
 {: .paper-links}
 
 </div>
@@ -155,7 +155,7 @@ Hanjing Ye, Weixi Situ, **<u>Jianwei Peng</u>**, Yu Zhan, Bingyi Xia, Kuanqi Cai
 2026 IEEE Transactions on Automation Science and Engineering (TASE)
 {: .paper-venue}
 
-[![arXiv 2509.10796](https://img.shields.io/badge/arXiv-2509.10796-003366?style=flat)](https://arxiv.org/abs/2509.10796) [![Project Page](https://img.shields.io/badge/Project-Page-007EC6?style=flat)](https://follow-bench.github.io/) [![GitHub Stars](https://img.shields.io/github/stars/MedlarTea/follow-bench?style=social)](https://github.com/MedlarTea/follow-bench)
+[![IEEE Xplore](https://img.shields.io/badge/IEEE-Xplore-00629B?style=flat)](https://ieeexplore.ieee.org/document/11814022) [![arXiv 2509.10796](https://img.shields.io/badge/arXiv-2509.10796-003366?style=flat)](https://arxiv.org/abs/2509.10796) [![Project Page](https://img.shields.io/badge/Project-Page-007EC6?style=flat)](https://follow-bench.github.io/) [![GitHub Stars](https://img.shields.io/github/stars/MedlarTea/follow-bench?style=social)](https://github.com/MedlarTea/follow-bench)
 {: .paper-links}
 
 </div>
@@ -178,7 +178,7 @@ Hanjing Ye, Weixi Situ, **<u>Jianwei Peng</u>**, Yu Zhan, Bingyi Xia, Kuanqi Cai
 2024 IEEE International Conference on Robotics and Automation (ICRA)
 {: .paper-venue}
 
-[![Paper PDF](https://img.shields.io/badge/Paper-PDF-007EC6?style=flat)](http://Jian-wei-peng.github.io/files/icra2024.pdf) [![IEEE Paper](https://img.shields.io/badge/IEEE-Paper-003366?style=flat)](https://ieeexplore.ieee.org/abstract/document/10611263) [![Video YouTube](https://img.shields.io/badge/Video-YouTube-B91C1C?style=flat)](https://youtu.be/Q1BG2GLAg8c)
+[![IEEE Paper](https://img.shields.io/badge/IEEE-Paper-003366?style=flat)](https://ieeexplore.ieee.org/abstract/document/10611263) [![Paper PDF](https://img.shields.io/badge/Paper-PDF-007EC6?style=flat)](http://Jian-wei-peng.github.io/files/icra2024.pdf) [![Video YouTube](https://img.shields.io/badge/Video-YouTube-B91C1C?style=flat)](https://youtu.be/Q1BG2GLAg8c)
 {: .paper-links}
 
 </div>
@@ -201,7 +201,7 @@ Hanjing Ye, Weixi Situ, **<u>Jianwei Peng</u>**, Yu Zhan, Bingyi Xia, Kuanqi Cai
 2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 {: .paper-venue}
 
-[![Paper PDF](https://img.shields.io/badge/Paper-PDF-007EC6?style=flat)](http://Jian-wei-peng.github.io/files/iros2023.pdf) [![IEEE Paper](https://img.shields.io/badge/IEEE-Paper-003366?style=flat)](https://ieeexplore.ieee.org/abstract/document/10342246) [![Video YouTube](https://img.shields.io/badge/Video-YouTube-B91C1C?style=flat)](https://youtu.be/rw8Gd4XVBu8)
+[![IEEE Paper](https://img.shields.io/badge/IEEE-Paper-003366?style=flat)](https://ieeexplore.ieee.org/abstract/document/10342246) [![Paper PDF](https://img.shields.io/badge/Paper-PDF-007EC6?style=flat)](http://Jian-wei-peng.github.io/files/iros2023.pdf) [![Video YouTube](https://img.shields.io/badge/Video-YouTube-B91C1C?style=flat)](https://youtu.be/rw8Gd4XVBu8)
 {: .paper-links}
 
 </div>
